@@ -16,7 +16,9 @@ class PostalCodesGermanyServiceProvider extends ServiceProvider
                 ImportCommand::class
             ]);
         }
-        $this->publishes([__DIR__.'/config/postal-codes-germany.php']);
+        $this->publishes([
+            __DIR__.'/../config/postal-codes-germany.php' => config_path('postal-codes-germany.php')
+        ]);
 //        $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
 //        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
     }

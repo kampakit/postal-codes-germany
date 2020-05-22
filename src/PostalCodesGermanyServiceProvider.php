@@ -4,7 +4,7 @@ namespace Kampakit\PostalCodesGermany;
 use Illuminate\Support\ServiceProvider;
 use Kampakit\PostalCodesGermany\Console\Commands\ImportCommand;
 
-class EmailToBanksServiceProvider extends ServiceProvider
+class PostalCodesGermanyServiceProvider extends ServiceProvider
 {
     public function register(){
 

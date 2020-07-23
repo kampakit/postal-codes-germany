@@ -2,9 +2,9 @@
   "name": "kampakit/postal-codes-germany",
   "description": " Laravel package for mapping German postal codes to geographic coordinates without using external APIs ",
   "type": "library",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "authors": [{
-    "name": "Martin Filipović Hinrichs",
+    "name": "Martin Hinrichs",
     "email": "mail@martinhinrichs.net",
     "homepage": "https://kampateam.org",
     "role": "Developer"

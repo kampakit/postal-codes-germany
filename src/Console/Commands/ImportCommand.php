@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 class ImportCommand extends Command
 {
     protected $signature = 'postal-codes-germany:import';
-    protected $description = 'Import postal code data from source url set in config/postal-codes-germany.php';
+    protected $description = 'Import postal code data to database';
 
     public function handle() {
         $postal_codes_cities = $this->read_cities();

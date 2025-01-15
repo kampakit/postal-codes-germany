@@ -152,10 +152,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 396563,16070001,Alkersleben,99310,Ilm-Kreis,Thüringen
 1428588,01054005,Alkersum,25938,Kreis Nordfriesland,Schleswig-Holstein
 1245131,07134003,Allenbach,55758,Landkreis Birkenfeld,Rheinland-Pfalz
-443591,06635001,Allendorf,35108,Landkreis Waldeck-Frankenberg,Hessen
+418611,06531001,Allendorf,35469,Landkreis Gießen,Hessen
 539713,07141001,Allendorf,56370,Rhein-Lahn-Kreis,Rheinland-Pfalz
 1273287,16073001,Allendorf,07426,Landkreis Saalfeld-Rudolstadt,Thüringen
-418611,06531001,Allendorf (Lumda),35469,Landkreis Gießen,Hessen
+443591,06635001,Allendorf (Eder),35108,Landkreis Waldeck-Frankenberg,Hessen
 1244219,07133002,Allenfeld,55595,Landkreis Bad Kreuznach,Rheinland-Pfalz
 2784841,08335002,Allensbach,78476,Landkreis Konstanz,Baden-Württemberg
 158406,09576113,Allersberg,90584,Landkreis Roth,Bayern
@@ -300,6 +300,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 941001,09183112,Ampfing,84539,Landkreis Mühldorf am Inn,Bayern
 394330,13072005,Am Salzhaff,18233,Landkreis Rostock,Mecklenburg-Vorpommern
 2770608,08425008,Amstetten,73340,Alb-Donau-Kreis,Baden-Württemberg
+10519401,16063104,Amt Creuzburg,99831,Wartburgkreis,Thüringen
 1851834,03355049,Amt Neuhaus,19273,Landkreis Lüneburg,Niedersachsen
 422409,14521010,Amtsberg,09439,Erzgebirgskreis,Sachsen
 2666038,16070028,Amt Wachsenburg,99334,Ilm-Kreis,Thüringen
@@ -308,14 +309,11 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1079012,03357003,Anderlingen,27446,Landkreis Rotenburg (Wümme),Niedersachsen
 541666,07137003,Andernach,56626,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 2402486,15084012,An der Poststraße,06647,Burgenlandkreis,Sachsen-Anhalt
-9205121,16065088,An der Schmücke,06556,Kyffhäuserkreis,Thüringen
 9205121,16065088,An der Schmücke,06577,Kyffhäuserkreis,Thüringen
-9205121,16065088,An der Schmücke,06578,Kyffhäuserkreis,Thüringen
 2006684,03454001,Andervenne,49832,Landkreis Emsland,Niedersachsen
 2411239,16068002,Andisleben,99189,Landkreis Sömmerda,Thüringen
 453373,08226102,Angelbachtal,74918,Rhein-Neckar-Kreis,Baden-Württemberg
 225487,06534002,Angelburg,35719,Landkreis Marburg-Biedenkopf,Hessen
-396220,16070003,Angelroda,99338,Ilm-Kreis,Thüringen
 941791,09172112,Anger,83454,Landkreis Berchtesgadener Land,Bayern
 1334084,12073008,Angermünde,16278,Landkreis Uckermark,Brandenburg
 1286657,15083030,Angern,39326,Landkreis Börde,Sachsen-Anhalt
@@ -328,7 +326,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2283775,15091010,Annaburg,06925,Landkreis Wittenberg,Sachsen-Anhalt
 1252764,07337501,Annweiler am Trifels,76855,Landkreis Südliche Weinstraße,Rheinland-Pfalz
 153400,05974004,Anröchte,59609,Kreis Soest,Nordrhein-Westfalen
-2896623,16064073,Anrode,99976,Unstrut-Hainich-Kreis,Thüringen
 62654,09561000,Ansbach,91522,,Bayern
 548034,07137004,Anschau,56729,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 936943,09190113,Antdorf,82387,Landkreis Weilheim-Schongau,Bayern
@@ -491,7 +488,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 966624,09375116,Bach an der Donau,93090,Landkreis Regensburg,Bayern
 1239652,07339003,Bacharach,55422,Landkreis Mainz-Bingen,Rheinland-Pfalz
 418891,07132004,Bachenberg,57610,Landkreis Altenkirchen,Rheinland-Pfalz
-1273185,16072001,Bachfeld,96528,Landkreis Sonneberg,Thüringen
 955236,09773112,Bachhagel,89429,Landkreis Dillingen an der Donau,Bayern
 956749,09773113,Bächingen a.d.Brenz,89431,Landkreis Dillingen an der Donau,Bayern
 165637,08119008,Backnang,71522,Rems-Murr-Kreis,Baden-Württemberg
@@ -587,7 +583,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1418992,03459005,Bad Laer,49196,Landkreis Osnabrück,Niedersachsen
 2874751,16064003,Bad Langensalza,99947,Unstrut-Hainich-Kreis,Thüringen
 422335,14729010,Bad Lausick,04651,Landkreis Leipzig,Sachsen
-1416144,03159003,Bad Lauterberg,37431,Landkreis Göttingen,Niedersachsen
+1416144,03159003,Bad Lauterberg im Harz,37431,Landkreis Göttingen,Niedersachsen
 2498094,16063099,Bad Liebenstein,36448,Wartburgkreis,Thüringen
 1328907,12062024,Bad Liebenwerda,04895,Landkreis Elbe-Elster,Brandenburg
 1328907,12062024,Bad Liebenwerda,04924,Landkreis Elbe-Elster,Brandenburg
@@ -602,6 +598,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1310515,14626010,Bad Muskau - Mužakow,02953,Landkreis Görlitz,Sachsen
 167408,06440002,Bad Nauheim,61231,Wetteraukreis,Hessen
 1169366,03257006,Bad Nenndorf,31542,Landkreis Schaumburg,Niedersachsen
+968897,09377142,Bad Neualbenreuth,95698,Landkreis Tirschenreuth,Bayern
 378389,07131007,Bad Neuenahr-Ahrweiler,53474,Landkreis Ahrweiler,Rheinland-Pfalz
 387466,09673114,Bad Neustadt an der Saale,97616,Landkreis Rhön-Grabfeld,Bayern
 144930,05770004,Bad Oeynhausen,32545,Kreis Minden-Lübbecke,Nordrhein-Westfalen
@@ -626,9 +623,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 142623,05766008,Bad Salzuflen,32107,Kreis Lippe,Nordrhein-Westfalen
 142623,05766008,Bad Salzuflen,32108,Kreis Lippe,Nordrhein-Westfalen
 2874389,16063003,Bad Salzungen,36433,Wartburgkreis,Thüringen
-2874389,16063003,Bad Salzungen,36460,Wartburgkreis,Thüringen
 2874389,16063003,Bad Salzungen,36469,Wartburgkreis,Thüringen
-2874389,16063003,Bad Salzungen,99819,Wartburgkreis,Thüringen
 153518,05974008,Bad Sassendorf,59505,Kreis Soest,Nordrhein-Westfalen
 2805478,08437100,Bad Saulgau,88348,Landkreis Sigmaringen,Baden-Württemberg
 534534,14628030,Bad Schandau,01814,Landkreis Sächsische Schweiz-Osterzgebirge,Sachsen
@@ -639,7 +634,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 382446,01055004,Bad Schwartau,23611,Kreis Ostholstein,Schleswig-Holstein
 442912,01060005,Bad Segeberg,23795,Kreis Segeberg,Schleswig-Holstein
 1244160,07133501,Bad Sobernheim,55566,Landkreis Bad Kreuznach,Rheinland-Pfalz
-414829,06436001,Bad Soden,65812,Main-Taunus-Kreis,Hessen
+414829,06436001,Bad Soden am Taunus,65812,Main-Taunus-Kreis,Hessen
 535936,06435002,Bad Soden-Salmünster,63628,Main-Kinzig-Kreis,Hessen
 549414,06636001,Bad Sooden-Allendorf,37242,Werra-Meißner-Kreis,Hessen
 1026857,09478165,Bad Staffelstein,96231,Landkreis Lichtenfels,Bayern
@@ -774,14 +769,13 @@ osm_id,ags,ort,plz,landkreis,bundesland
 387412,09673116,Bastheim,97654,Landkreis Rhön-Grabfeld,Bayern
 1466113,01053007,Basthorst,21493,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 394351,13072008,Bastorf,18230,Landkreis Rostock,Mecklenburg-Vorpommern
-443589,06635004,Battenberg,35088,Landkreis Waldeck-Frankenberg,Hessen
+443589,06635004,Battenberg (Eder),35088,Landkreis Waldeck-Frankenberg,Hessen
 1249676,07332003,Battenberg (Pfalz),67271,Landkreis Bad Dürkheim,Rheinland-Pfalz
 1250692,07340202,Battweiler,66484,Landkreis Südwestpfalz,Rheinland-Pfalz
 357013,09575113,Baudenbach,91460,Landkreis Neustadt an der Aisch-Bad Windsheim,Bayern
 1060427,07131009,Bauler,53534,Landkreis Ahrweiler,Rheinland-Pfalz
 1171870,07232008,Bauler,54673,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1959686,13072009,Baumgarten,18246,Landkreis Rostock,Mecklenburg-Vorpommern
-1959686,13072009,Baumgarten,18249,Landkreis Rostock,Mecklenburg-Vorpommern
 1245060,07134005,Baumholder,55774,Landkreis Birkenfeld,Rheinland-Pfalz
 1077543,09471115,Baunach,96148,Landkreis Bamberg,Bayern
 533536,06633003,Baunatal,34225,Landkreis Kassel,Hessen
@@ -809,7 +803,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 534394,09571115,Bechhofen,91572,Landkreis Ansbach,Bayern
 1250670,07340203,Bechhofen,66894,Landkreis Südwestpfalz,Rheinland-Pfalz
 1273278,16073006,Bechstedt,07426,Landkreis Saalfeld-Rudolstadt,Thüringen
-2856987,16071006,Bechstedtstraß,99428,Landkreis Weimarer Land,Thüringen
 1248786,07331006,Bechtheim,67595,Landkreis Alzey-Worms,Rheinland-Pfalz
 1248582,07331007,Bechtolsheim,55234,Landkreis Alzey-Worms,Rheinland-Pfalz
 1059442,09374170,Bechtsrieth,92699,Landkreis Neustadt an der Waldnaab,Bayern
@@ -951,7 +944,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1384819,12067040,Berkenbrück,15518,Landkreis Oder-Spree,Brandenburg
 1469273,01053009,Berkenthin,23919,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 2801244,08426019,Berkheim,88450,Landkreis Biberach,Baden-Württemberg
-1334101,12073032,Berkholz-Meyenburg,16306,Landkreis Uckermark,Brandenburg
 1171853,07232011,Berkoth,54673,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 62422,11000000,Berlin,10115,,Berlin
 62422,11000000,Berlin,10117,,Berlin
@@ -1315,7 +1307,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2899667,16063008,Bischofroda,99826,Wartburgkreis,Thüringen
 1070994,09472121,Bischofsgrün,95493,Landkreis Bayreuth,Bayern
 444944,06433002,Bischofsheim,65474,Kreis Groß-Gerau,Hessen
-387391,09673117,Bischofsheim a.d.Rhön,97653,Landkreis Rhön-Grabfeld,Bayern
+387391,09673117,Bischofsheim i.d.Rhön,97653,Landkreis Rhön-Grabfeld,Bayern
 959165,09276116,Bischofsmais,94253,Landkreis Regen,Bayern
 1307621,14625040,Bischofswerda,01877,Landkreis Bautzen,Sachsen
 941829,09172117,Bischofswiesen,83483,Landkreis Berchtesgadener Land,Bayern
@@ -1363,9 +1355,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1837837,03355009,Bleckede,21354,Landkreis Lüneburg,Niedersachsen
 1085807,07233008,Bleckhausen,54570,Landkreis Vulkaneifel,Rheinland-Pfalz
 1108062,07232206,Bleialf,54608,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
-2400611,16062066,Bleicherode,99735,Landkreis Nordhausen,Thüringen
 2400611,16062066,Bleicherode,99752,Landkreis Nordhausen,Thüringen
-2400611,16062066,Bleicherode,99759,Landkreis Nordhausen,Thüringen
 288940,01057007,Blekendorf,24327,Kreis Plön,Schleswig-Holstein
 1182293,03361002,Blender,27337,Landkreis Verden,Niedersachsen
 1432549,13075013,Blesewitz,17392,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
@@ -1484,7 +1474,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 451702,07143211,Bölsberg,57648,Westerwaldkreis,Rheinland-Pfalz
 957890,09780116,Bolsterlang,87538,Landkreis Oberallgäu,Bayern
 176636,13074010,Boltenhagen,23946,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
-1808965,03358004,Bomlitz,29699,Landkreis Heidekreis,Niedersachsen
 2808124,08436019,Boms,88361,Landkreis Ravensburg,Baden-Württemberg
 1406981,01054013,Bondelum,25850,Kreis Nordfriesland,Schleswig-Holstein
 722093,08115004,Bondorf,71149,Landkreis Böblingen,Baden-Württemberg
@@ -1540,7 +1529,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1428594,01054015,Borgsum,25938,Kreis Nordfriesland,Schleswig-Holstein
 1157535,01059012,Borgwedel,24857,Kreis Schleswig-Flensburg,Schleswig-Holstein
 162723,05554012,Borken,46325,Kreis Borken,Nordrhein-Westfalen
-452192,06634001,Borken,34582,Schwalm-Eder-Kreis,Hessen
+452192,06634001,Borken (Hessen),34582,Schwalm-Eder-Kreis,Hessen
 539724,12069052,Borkheide,14822,Landkreis Potsdam-Mittelmark,Brandenburg
 449939,13076015,Borkow,19406,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 932092,03457002,Borkum,26757,Landkreis Leer,Niedersachsen
@@ -1558,7 +1547,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 556121,01058025,Bornholt,25725,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 405629,01060012,Bornhöved,24619,Kreis Segeberg,Schleswig-Holstein
 539913,07141016,Bornich,56348,Rhein-Lahn-Kreis,Rheinland-Pfalz
-422346,14521090,Börnichen/Erzgebirge,09437,Erzgebirgskreis,Sachsen
+422346,14521090,Börnichen,09437,Erzgebirgskreis,Sachsen
 156829,01053012,Börnsen,21039,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 2409458,15087075,Bornstedt,06295,Landkreis Mansfeld-Südharz,Sachsen-Anhalt
 453153,07143212,Borod,57614,Westerwaldkreis,Rheinland-Pfalz
@@ -1585,7 +1574,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1177205,16070006,Bösleben-Wüllersleben,99310,Ilm-Kreis,Thüringen
 965598,03357005,Bötersen,27367,Landkreis Rotenburg (Wümme),Niedersachsen
 965602,03357006,Bothel,27386,Landkreis Rotenburg (Wümme),Niedersachsen
-2895875,16064008,Bothenheilingen,99947,Unstrut-Hainich-Kreis,Thüringen
 310395,01057011,Bothkamp,24250,Kreis Plön,Schleswig-Holstein
 1251151,07340205,Bottenbach,66504,Landkreis Südwestpfalz,Rheinland-Pfalz
 1231959,08327006,Böttingen,78583,Landkreis Tuttlingen,Baden-Württemberg
@@ -1798,7 +1786,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 450221,01061019,Brokstedt,24616,Kreis Steinburg,Schleswig-Holstein
 451781,06437005,Brombachtal,64753,Odenwaldkreis,Hessen
 1329992,03151005,Brome,38465,Landkreis Gifhorn,Niedersachsen
-443588,06635005,Bromskirchen,59969,Landkreis Waldeck-Frankenberg,Hessen
 1322901,12066041,Bronkow,03205,Landkreis Oberspreewald-Lausitz,Brandenburg
 1476085,01053015,Bröthen,21514,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 1138618,16066074,Brotterode-Trusetal,98596,Landkreis Schmalkalden-Meiningen,Thüringen
@@ -1940,7 +1927,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 454868,06631002,Burghaun,36151,Landkreis Fulda,Hessen
 942044,09171112,Burghausen,84489,Landkreis Altötting,Bayern
 943668,09185125,Burgheim,86666,Landkreis Neuburg-Schrobenhausen,Bayern
-2179153,16075009,Burgk,07907,Saale-Orla-Kreis,Thüringen
 942047,09171113,Burgkirchen an der Alz,84508,Landkreis Altötting,Bayern
 1026853,09478116,Burgkunstadt,96224,Landkreis Lichtenfels,Bayern
 415009,07132016,Burglahr,57632,Landkreis Altenkirchen,Rheinland-Pfalz
@@ -2021,7 +2007,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 393335,13072021,Cammin,18195,Landkreis Rostock,Mecklenburg-Vorpommern
 1109685,03453003,Cappeln (Oldenburg),49692,Landkreis Cloppenburg,Niedersachsen
 394335,13072022,Carinerland,18233,Landkreis Rostock,Mecklenburg-Vorpommern
-394335,13072022,Carinerland,18236,Landkreis Rostock,Mecklenburg-Vorpommern
 1444898,13074013,Carlow,19217,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 1249752,07332007,Carlsberg,67316,Landkreis Bad Dürkheim,Rheinland-Pfalz
 1334085,12073093,Carmzow-Wallmow,17291,Landkreis Uckermark,Brandenburg
@@ -2112,7 +2097,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 402690,08128020,Creglingen,97993,Main-Tauber-Kreis,Baden-Württemberg
 1432639,03158006,Cremlingen,38162,Landkreis Wolfenbüttel,Niedersachsen
 1070990,09472127,Creußen,95473,Landkreis Bayreuth,Bayern
-2888013,16063013,Creuzburg,99831,Wartburgkreis,Thüringen
 2788808,16076014,Crimla,07557,Landkreis Greiz,Thüringen
 417074,14524030,Crimmitschau,08451,Landkreis Zwickau,Sachsen
 1303793,12062088,Crinitz,03246,Landkreis Elbe-Elster,Brandenburg
@@ -2130,7 +2114,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1518688,03352011,Cuxhaven,27476,Landkreis Cuxhaven,Niedersachsen
 1518688,03352011,Cuxhaven,27478,Landkreis Cuxhaven,Niedersachsen
 421951,07132018,Daaden,57567,Landkreis Altenkirchen,Rheinland-Pfalz
-2856990,16071012,Daasdorf am Berge,99428,Landkreis Weimarer Land,Thüringen
 449937,13076026,Dabel,19406,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1302363,12068072,Dabergotz,16818,Landkreis Ostprignitz-Ruppin,Brandenburg
 1427542,13075023,Daberkow,17129,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
@@ -2276,9 +2259,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 534183,09571132,Dentlein am Forst,91599,Landkreis Ansbach,Bayern
 1970186,08316009,Denzlingen,79211,Landkreis Emmendingen,Baden-Württemberg
 1184655,03255009,Derental,37691,Landkreis Holzminden,Niedersachsen
-2889828,16063015,Dermbach,36404,Wartburgkreis,Thüringen
-2889828,16063015,Dermbach,36452,Wartburgkreis,Thüringen
-2889828,16063015,Dermbach,36457,Wartburgkreis,Thüringen
 2889828,16063015,Dermbach,36466,Wartburgkreis,Thüringen
 1021835,07131017,Dernau,53507,Landkreis Ahrweiler,Rheinland-Pfalz
 445745,07138011,Dernbach,56307,Landkreis Neuwied,Rheinland-Pfalz
@@ -2543,7 +2523,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1183250,03256005,Drakenburg,31623,Landkreis Nienburg/Weser,Niedersachsen
 1399074,03159009,Dransfeld,37127,Landkreis Göttingen,Niedersachsen
 1437953,13073019,Dranske,18556,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
-2179157,16075018,Dreba,07806,Saale-Orla-Kreis,Thüringen
 379269,14521150,Drebach,09430,Erzgebirgskreis,Sachsen
 1460920,03251013,Drebber,49457,Landkreis Diepholz,Niedersachsen
 1322549,12071057,Drebkau,03116,Landkreis Spree-Neiße,Brandenburg
@@ -2650,7 +2629,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2012319,03458004,Dünsen,27243,Landkreis Oldenburg,Niedersachsen
 1428584,01054025,Dunsum,25938,Kreis Nordfriesland,Schleswig-Holstein
 2012453,03462002,Dunum,26427,Landkreis Wittmund,Niedersachsen
-2896616,16064014,Dünwald,99976,Unstrut-Hainich-Kreis,Thüringen
 1246449,07336017,Dunzweiler,66916,Landkreis Kusel,Rheinland-Pfalz
 1074557,07233211,Duppach,54597,Landkreis Vulkaneifel,Rheinland-Pfalz
 957723,09780120,Durach,87471,Landkreis Oberallgäu,Bayern
@@ -2714,7 +2692,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2389086,16065014,Ebeleben,99713,Kyffhäuserkreis,Thüringen
 388843,09674129,Ebelsbach,97500,Landkreis Haßberge,Bayern
 1026854,09478120,Ebensfeld,96250,Landkreis Lichtenfels,Bayern
-2900652,16063019,Ebenshausen,99826,Wartburgkreis,Thüringen
 2808125,08436024,Ebenweiler,88370,Landkreis Ravensburg,Baden-Württemberg
 453363,08226013,Eberbach,64754,Rhein-Neckar-Kreis,Baden-Württemberg
 453363,08226013,Eberbach,69412,Rhein-Neckar-Kreis,Baden-Württemberg
@@ -2823,8 +2800,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 722146,08115013,Ehningen,71139,Landkreis Böblingen,Baden-Württemberg
 540449,07141035,Ehr,56357,Rhein-Lahn-Kreis,Rheinland-Pfalz
 1330378,03151008,Ehra-Lessien,38468,Landkreis Gifhorn,Niedersachsen
-454871,06631005,Ehrenberg,36115,Landkreis Fulda,Hessen
 1273305,16069009,Ehrenberg,98660,Landkreis Hildburghausen,Thüringen
+454871,06631005,Ehrenberg (Rhön),36115,Landkreis Fulda,Hessen
 1461198,03251015,Ehrenburg,27248,Landkreis Diepholz,Niedersachsen
 536588,14521160,Ehrenfriedersdorf,09427,Erzgebirgskreis,Sachsen
 1946220,08315131,Ehrenkirchen,79238,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
@@ -2871,7 +2848,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1246680,07336019,Einöllen,67753,Landkreis Kusel,Rheinland-Pfalz
 1254387,07333018,Einselthum,67308,Donnersbergkreis,Rheinland-Pfalz
 2186919,09187126,Eiselfing,83549,Landkreis Rosenheim,Bayern
-62370,16056000,Eisenach,99817,,Thüringen
+62370,16063105,Eisenach,99817,,Thüringen
 1163511,07232218,Eisenach,54298,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 319152,08315031,Eisenbach,79871,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 448305,09777125,Eisenberg,87637,Landkreis Ostallgäu,Bayern
@@ -3046,6 +3023,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 957745,09778134,Eppishausen,87745,Landkreis Unterallgäu,Bayern
 393359,06436002,Eppstein,65817,Main-Taunus-Kreis,Hessen
 451798,06437006,Erbach,64711,Odenwaldkreis,Hessen
+451798,06437006,Erbach,64743,Odenwaldkreis,Hessen
 1241477,07140037,Erbach,55494,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 2790226,08425039,Erbach,89155,Alb-Donau-Kreis,Baden-Württemberg
 975241,09377116,Erbendorf,92681,Landkreis Tirschenreuth,Bayern
@@ -3097,10 +3075,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 414697,14522120,Erlau,09306,Landkreis Mittelsachsen,Sachsen
 942016,09171115,Erlbach,84567,Landkreis Altötting,Bayern
 410472,08125027,Erlenbach,74235,Landkreis Heilbronn,Baden-Württemberg
-394527,09676122,Erlenbach a.Main,63906,Landkreis Miltenberg,Bayern
+394527,09676122,Erlenbach am Main,63906,Landkreis Miltenberg,Bayern
 1251122,07340010,Erlenbach bei Dahn,76891,Landkreis Südwestpfalz,Rheinland-Pfalz
 1252351,07334004,Erlenbach bei Kandel,76872,Landkreis Germersheim,Rheinland-Pfalz
-335466,09677125,Erlenbach b.Marktheidenfeld,97837,Landkreis Main-Spessart,Bayern
+335466,09677125,Erlenbach b. Marktheidenfeld,97837,Landkreis Main-Spessart,Bayern
 2801245,08426043,Erlenmoos,88416,Landkreis Biberach,Baden-Württemberg
 535896,06435007,Erlensee,63526,Main-Kinzig-Kreis,Hessen
 405784,08118015,Erligheim,74391,Landkreis Ludwigsburg,Baden-Württemberg
@@ -3413,7 +3391,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 349418,09677129,Frammersbach,97833,Landkreis Main-Spessart,Bayern
 1253781,07335009,Frankelbach,67737,Landkreis Kaiserslautern,Rheinland-Pfalz
 443586,06635010,Frankenau,35110,Landkreis Waldeck-Frankenberg,Hessen
-443587,06635011,Frankenberg,35066,Landkreis Waldeck-Frankenberg,Hessen
+443587,06635011,Frankenberg (Eder),35066,Landkreis Waldeck-Frankenberg,Hessen
 411424,14522150,Frankenberg/Sachsen,09669,Landkreis Mittelsachsen,Sachsen
 1946809,16072023,Frankenblick,96528,Landkreis Sonneberg,Thüringen
 2856993,16071019,Frankendorf,99441,Landkreis Weimarer Land,Thüringen
@@ -3430,8 +3408,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 62400,06412000,Frankfurt am Main,60308,,Hessen
 62400,06412000,Frankfurt am Main,60310,,Hessen
 62400,06412000,Frankfurt am Main,60311,,Hessen
+62400,06412000,Frankfurt am Main,60312,,Hessen
 62400,06412000,Frankfurt am Main,60313,,Hessen
 62400,06412000,Frankfurt am Main,60314,,Hessen
+62400,06412000,Frankfurt am Main,60315,,Hessen
 62400,06412000,Frankfurt am Main,60316,,Hessen
 62400,06412000,Frankfurt am Main,60318,,Hessen
 62400,06412000,Frankfurt am Main,60320,,Hessen
@@ -3551,8 +3531,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2806598,08435015,Frickingen,88699,Bodenseekreis,Baden-Württemberg
 1231980,08327016,Fridingen an der Donau,78567,Landkreis Tuttlingen,Baden-Württemberg
 941659,09189118,Fridolfing,83413,Landkreis Traunstein,Bayern
+393689,06440008,Friedberg,61169,Wetteraukreis,Hessen
 395731,09771130,Friedberg,86316,Landkreis Aichach-Friedberg,Bayern
-393689,06440008,Friedberg (Hessen),61169,Wetteraukreis,Hessen
 1187676,03462005,Friedeburg,26446,Landkreis Wittmund,Niedersachsen
 2831119,16066025,Friedelshausen,98634,Landkreis Schmalkalden-Meiningen,Thüringen
 1249961,07332020,Friedelsheim,67159,Landkreis Bad Dürkheim,Rheinland-Pfalz
@@ -3777,11 +3757,11 @@ osm_id,ags,ort,plz,landkreis,bundesland
 410523,08125034,Gemmingen,75050,Landkreis Heilbronn,Baden-Württemberg
 405304,08118018,Gemmrigheim,74376,Landkreis Ludwigsburg,Baden-Württemberg
 1171894,07232041,Gemünd,54673,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
-443594,06635012,Gemünden,35285,Landkreis Waldeck-Frankenberg,Hessen
 535006,07143224,Gemünden,56459,Westerwaldkreis,Rheinland-Pfalz
 1245197,07140041,Gemünden,55490,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 349450,09677131,Gemünden am Main,97737,Landkreis Main-Spessart,Bayern
 418330,06535005,Gemünden (Felda),35329,Vogelsbergkreis,Hessen
+443594,06635012,Gemünden (Wohra),35285,Landkreis Waldeck-Frankenberg,Hessen
 962266,09779149,Genderkingen,86682,Landkreis Donau-Ries,Bayern
 452992,08317034,Gengenbach,77723,Ortenaukreis,Baden-Württemberg
 1239654,07339021,Gensingen,55457,Landkreis Mainz-Bingen,Rheinland-Pfalz
@@ -3790,7 +3770,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1171882,07232042,Gentingen,54675,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1059456,09374123,Georgenberg,92697,Landkreis Neustadt an der Waldnaab,Bayern
 158414,09576121,Georgensgmünd,91166,Landkreis Roth,Bayern
-2816724,16067025,Georgenthal,99887,Landkreis Gotha,Thüringen
+10517210,16067092,Georgenthal,99887,Landkreis Gotha,Thüringen
 2014146,03456005,Georgsdorf,49828,Landkreis Grafschaft Bentheim,Niedersachsen
 1819454,03459019,Georgsmarienhütte,49124,Landkreis Osnabrück,Niedersachsen
 62671,16052000,Gera,07545,,Thüringen
@@ -3804,9 +3784,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 388816,08127032,Gerabronn,74582,Landkreis Schwäbisch Hall,Baden-Württemberg
 1077563,09471133,Gerach,96161,Landkreis Bamberg,Bayern
 1245116,07134028,Gerach,55743,Landkreis Birkenfeld,Rheinland-Pfalz
-2910723,16070057,Geratal,98716,Ilm-Kreis,Thüringen
 2910723,16070057,Geratal,99330,Ilm-Kreis,Thüringen
-2910723,16070057,Geratal,99338,Ilm-Kreis,Thüringen
+2910723,16070057,Geratal,99331,Ilm-Kreis,Thüringen
 957044,09277122,Geratskirchen,84552,Landkreis Rottal-Inn,Bayern
 1253983,07333025,Gerbach,67813,Donnersbergkreis,Rheinland-Pfalz
 2395920,16061036,Gerbershausen,37318,Landkreis Eichsfeld,Thüringen
@@ -3837,14 +3816,13 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1074556,07233026,Gerolstein,54568,Landkreis Vulkaneifel,Rheinland-Pfalz
 318227,09678134,Gerolzhofen,97447,Landkreis Schweinfurt,Bayern
 301041,14524070,Gersdorf,09355,Landkreis Zwickau,Sachsen
-454864,06631010,Gersfeld,36129,Landkreis Fulda,Hessen
+454864,06631010,Gersfeld (Rhön),36129,Landkreis Fulda,Hessen
 1184824,10045113,Gersheim,66453,Saarpfalz-Kreis,Saarland
 2006833,03454015,Gersten,49838,Landkreis Emsland,Niedersachsen
 2714342,16077007,Gerstenberg,04617,Landkreis Altenburger Land,Thüringen
 2890264,16063033,Gerstengrund,36419,Wartburgkreis,Thüringen
 2772184,08135015,Gerstetten,89547,Landkreis Heidenheim,Baden-Württemberg
 443126,09772147,Gersthofen,86368,Landkreis Augsburg,Bayern
-2885197,16063097,Gerstungen,99819,Wartburgkreis,Thüringen
 2885197,16063097,Gerstungen,99834,Wartburgkreis,Thüringen
 1334093,12073201,Gerswalde,17268,Landkreis Uckermark,Brandenburg
 2179163,16075031,Gertewitz,07389,Saale-Orla-Kreis,Thüringen
@@ -4021,9 +3999,9 @@ osm_id,ags,ort,plz,landkreis,bundesland
 409676,14626110,Görlitz,02828,Landkreis Görlitz,Sachsen
 1451525,13076049,Gorlosen,19294,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1427505,13075036,Görmin,17121,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
-422404,14521220,Gornau/Erzgebirge,09405,Erzgebirgskreis,Sachsen
-422404,14521220,Gornau/Erzgebirge,09437,Erzgebirgskreis,Sachsen
-422404,14521220,Gornau/Erzgebirge,09573,Erzgebirgskreis,Sachsen
+422404,14521220,Gornau,09405,Erzgebirgskreis,Sachsen
+422404,14521220,Gornau,09437,Erzgebirgskreis,Sachsen
+422404,14521220,Gornau,09573,Erzgebirgskreis,Sachsen
 1258362,07231040,Gornhausen,54472,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
 536009,14521230,Gornsdorf,09390,Erzgebirgskreis,Sachsen
 2399484,16062008,Görsbach,99765,Landkreis Nordhausen,Thüringen
@@ -4069,7 +4047,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 659812,08215099,Graben-Neudorf,76676,Landkreis Karlsruhe,Baden-Württemberg
 941739,09189119,Grabenstätt,83355,Landkreis Traunstein,Bayern
 2774196,08415028,Grabenstetten,72582,Landkreis Reutlingen,Baden-Württemberg
-2539243,16066094,Grabfeld,98617,Landkreis Schmalkalden-Meiningen,Thüringen
 2539243,16066094,Grabfeld,98631,Landkreis Schmalkalden-Meiningen,Thüringen
 1451576,13076050,Grabow,19300,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 2676470,13071047,Grabowhöfe,17194,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
@@ -4089,7 +4066,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 959886,09372130,Grafenwiesen,93479,Landkreis Cham,Bayern
 1059432,09374124,Grafenwöhr,92655,Landkreis Neustadt an der Waldnaab,Bayern
 1446636,03154007,Grafhorst,38462,Landkreis Helmstedt,Niedersachsen
-929925,09175122,Grafing,85567,Landkreis Ebersberg,Bayern
+929925,09175122,Grafing bei München,85567,Landkreis Ebersberg,Bayern
 959815,09271122,Grafling,94539,Landkreis Deggendorf,Bayern
 933540,09179125,Grafrath,82284,Landkreis Fürstenfeldbruck,Bayern
 571654,07131090,Grafschaft,53501,Landkreis Ahrweiler,Rheinland-Pfalz
@@ -4103,6 +4080,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1444881,13074025,Grambow,19073,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 372857,13073032,Grammendorf,18513,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
 1427702,13071048,Grammentin,17153,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
+2915819,16071103,Grammetal,99428,Landkreis Weimarer Land,Thüringen
 393338,13072037,Grammow,18195,Landkreis Rostock,Mecklenburg-Vorpommern
 1334104,12073225,Gramzow,17291,Landkreis Uckermark,Brandenburg
 454252,01062020,Grande,22946,Kreis Stormarn,Schleswig-Holstein
@@ -4144,7 +4122,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1451605,13076054,Gresse,19258,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1809681,03358011,Grethem,29690,Landkreis Heidekreis,Niedersachsen
 318261,09678138,Grettstadt,97508,Landkreis Schweinfurt,Bayern
-2778496,16065023,Greußen,99718,Kyffhäuserkreis,Thüringen
+2778496,16065089,Greußen,99718,Kyffhäuserkreis,Thüringen
 181147,09679141,Greußenheim,97259,Landkreis Würzburg,Bayern
 155710,05566012,Greven,48268,Kreis Steinfurt,Nordrhein-Westfalen
 1451542,13076055,Greven,19258,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
@@ -4211,7 +4189,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2779242,08417023,Grosselfingen,72415,Zollernalbkreis,Baden-Württemberg
 423225,01060027,Großenaspe,24623,Kreis Segeberg,Schleswig-Holstein
 382418,01055017,Großenbrode,23775,Kreis Ostholstein,Schleswig-Holstein
-2388887,16065084,Großenehrich,99718,Kyffhäuserkreis,Thüringen
 551159,14627060,Großenhain,01558,Landkreis Meißen,Sachsen
 551159,14627060,Großenhain,01561,Landkreis Meißen,Sachsen
 1186883,03458007,Großenkneten,26197,Landkreis Oldenburg,Niedersachsen
@@ -4349,7 +4326,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 319197,08128047,Grünsfeld,97947,Main-Tauber-Kreis,Baden-Württemberg
 907049,07332024,Grünstadt,67269,Landkreis Bad Dürkheim,Rheinland-Pfalz
 415806,09184122,Grünwald,82031,Landkreis München,Bayern
-415806,09184122,Grünwald,82064,Landkreis München,Bayern
 55190,08136027,Gschwend,74417,Ostalbkreis,Baden-Württemberg
 2186925,09187138,Gstadt am Chiemsee,83257,Landkreis Rosenheim,Bayern
 1351322,12071160,Guben,03172,Landkreis Spree-Neiße,Brandenburg
@@ -4459,7 +4435,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1451519,13076060,Hagenow,19230,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 898197,03452009,Hagermarsch,26524,Landkreis Aurich,Niedersachsen
 2783927,08435018,Hagnau am Bodensee,88709,Bodenseekreis,Baden-Württemberg
-1421433,03153006,Hahausen,38729,Landkreis Goslar,Niedersachsen
 1015245,07140044,Hahn,56850,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 534478,07143232,Hahn am See,56244,Westerwaldkreis,Rheinland-Pfalz
 1028557,09371126,Hahnbach,92256,Landkreis Amberg-Sulzbach,Bayern
@@ -4476,7 +4451,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2779232,08417025,Haigerloch,72401,Zollernalbkreis,Baden-Württemberg
 934470,09174121,Haimhausen,85778,Landkreis Dachau,Bayern
 942038,09171118,Haiming,84533,Landkreis Altötting,Bayern
-443593,06635013,Haina,35114,Landkreis Waldeck-Frankenberg,Hessen
+443593,06635013,Haina (Kloster),35114,Landkreis Waldeck-Frankenberg,Hessen
 540453,07141110,Hainau,56357,Rhein-Lahn-Kreis,Rheinland-Pfalz
 659753,06438004,Hainburg,63512,Landkreis Offenbach,Hessen
 418126,14626170,Hainewalde,02779,Landkreis Görlitz,Sachsen
@@ -4754,7 +4729,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 535010,07143230,Härtlingen,56459,Westerwaldkreis,Rheinland-Pfalz
 412400,14522260,Hartmannsdorf,09232,Landkreis Mittelsachsen,Sachsen
 2778376,16074038,Hartmannsdorf,07613,Saale-Holzland-Kreis,Thüringen
-2786766,16076026,Hartmannsdorf,07586,Landkreis Greiz,Thüringen
 417713,14524100,Hartmannsdorf bei Kirchberg,08107,Landkreis Zwickau,Sachsen
 455474,14628150,Hartmannsdorf-Reichenau,01762,Landkreis Sächsische Schweiz-Osterzgebirge,Sachsen
 1245806,07339026,Harxheim,55296,Landkreis Mainz-Bingen,Rheinland-Pfalz
@@ -4794,7 +4768,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1185613,03458009,Hatten,26209,Landkreis Oldenburg,Niedersachsen
 933534,09179128,Hattenhofen,82285,Landkreis Fürstenfeldbruck,Bayern
 2792703,08117029,Hattenhofen,73110,Landkreis Göppingen,Baden-Württemberg
-414749,06436005,Hattersheim,65795,Main-Taunus-Kreis,Hessen
+414749,06436005,Hattersheim am Main,65795,Main-Taunus-Kreis,Hessen
 453158,07143235,Hattert,57644,Westerwaldkreis,Rheinland-Pfalz
 1244326,07134034,Hattgenstein,55767,Landkreis Birkenfeld,Rheinland-Pfalz
 162828,05954016,Hattingen,45525,Ennepe-Ruhr-Kreis,Nordrhein-Westfalen
@@ -4805,7 +4779,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1415601,01054043,Hattstedtermarsch,25856,Kreis Nordfriesland,Schleswig-Holstein
 1252352,07334009,Hatzenbühl,76770,Landkreis Germersheim,Rheinland-Pfalz
 546634,07137208,Hatzenport,56332,Landkreis Mayen-Koblenz,Rheinland-Pfalz
-443590,06635014,Hatzfeld,35116,Landkreis Waldeck-Frankenberg,Hessen
+443590,06635014,Hatzfeld (Eder),35116,Landkreis Waldeck-Frankenberg,Hessen
 1251070,07340014,Hauenstein,76846,Landkreis Südwestpfalz,Rheinland-Pfalz
 1015098,09577138,Haundorf,91729,Landkreis Weißenburg-Gunzenhausen,Bayern
 275090,06632007,Hauneck,36282,Landkreis Hersfeld-Rotenburg,Hessen
@@ -4826,7 +4800,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1130295,08336036,Hausen im Wiesental,79688,Landkreis Lörrach,Baden-Württemberg
 1231973,08327023,Hausen ob Verena,78595,Landkreis Tuttlingen,Baden-Württemberg
 444274,07138007,Hausen (Wied),53547,Landkreis Neuwied,Rheinland-Pfalz
-444274,07138007,Hausen (Wied),56588,Landkreis Neuwied,Rheinland-Pfalz
 1240407,08337045,Häusern,79837,Landkreis Waldshut,Baden-Württemberg
 935951,09182119,Hausham,83734,Landkreis Miesbach,Bayern
 1799473,03358013,Häuslingen,27336,Landkreis Heidekreis,Niedersachsen
@@ -5002,7 +4975,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 450068,01061036,Hennstedt,25581,Kreis Steinburg,Schleswig-Holstein
 952291,01051049,Hennstedt,25779,Kreis Dithmarschen,Schleswig-Holstein
 1244119,07133043,Hennweiler,55619,Landkreis Bad Kreuznach,Rheinland-Pfalz
-2411244,16068026,Henschleben,99634,Landkreis Sömmerda,Thüringen
 1246483,07336037,Henschtal,66909,Landkreis Kusel,Rheinland-Pfalz
 442762,01060039,Henstedt-Ulzburg,24558,Kreis Segeberg,Schleswig-Holstein
 1256086,07235043,Hentern,54314,Landkreis Trier-Saarburg,Rheinland-Pfalz
@@ -5033,8 +5005,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 959435,09776115,Hergensweiler,88138,Landkreis Lindau,Bayern
 1252831,07337037,Hergersweiler,76872,Landkreis Südliche Weinstraße,Rheinland-Pfalz
 2409460,15087210,Hergisdorf,06313,Landkreis Mansfeld-Südharz,Sachsen-Anhalt
-238972,06632009,Heringen,36266,Landkreis Hersfeld-Rotenburg,Hessen
 2399485,16062064,Heringen/Helme,99765,Landkreis Nordhausen,Thüringen
+238972,06632009,Heringen (Werra),36266,Landkreis Hersfeld-Rotenburg,Hessen
 382423,01055022,Heringsdorf,23777,Kreis Ostholstein,Schleswig-Holstein
 1432806,13075049,Heringsdorf,17419,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 1432806,13075049,Heringsdorf,17424,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
@@ -5197,7 +5169,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 537069,06431012,Hirschhorn,64757,Kreis Bergstraße,Hessen
 537069,06431012,Hirschhorn,69412,Kreis Bergstraße,Hessen
 537069,06431012,Hirschhorn,69434,Kreis Bergstraße,Hessen
-1253780,07335014,Hirschhorn/ Pfalz,67732,Landkreis Kaiserslautern,Rheinland-Pfalz
+1253780,07335014,Hirschhorn/Pfalz,67732,Landkreis Kaiserslautern,Rheinland-Pfalz
 549804,14627070,Hirschstein,01594,Landkreis Meißen,Sachsen
 1251123,07340021,Hirschthal,66996,Landkreis Südwestpfalz,Rheinland-Pfalz
 548043,07137036,Hirten,56729,Landkreis Mayen-Koblenz,Rheinland-Pfalz
@@ -5221,8 +5193,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1258364,07231056,Hochscheid,54472,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
 1186710,07335015,Hochspeyer,67691,Landkreis Kaiserslautern,Rheinland-Pfalz
 1016532,09572135,Höchstadt a.d.Aisch,91315,Landkreis Erlangen-Höchstadt,Bayern
-957012,09773139,Höchstädt a.d.Donau,89420,Landkreis Dillingen an der Donau,Bayern
 1026851,09478127,Hochstadt a.Main,96272,Landkreis Lichtenfels,Bayern
+957012,09773139,Höchstädt an der Donau,89420,Landkreis Dillingen an der Donau,Bayern
 1022882,09479126,Höchstädt im Fichtelgebirge,95186,Landkreis Wunsiedel im Fichtelgebirge,Bayern
 1252805,07337041,Hochstadt (Pfalz),76879,Landkreis Südliche Weinstraße,Rheinland-Pfalz
 1244039,07133045,Hochstätten,55585,Landkreis Bad Kreuznach,Rheinland-Pfalz
@@ -5288,7 +5260,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 158702,01053053,Hohenhorn,21526,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 30011,09178133,Hohenkammer,85411,Landkreis Freising,Bayern
 1479630,13074032,Hohenkirchen,23968,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
-2816718,16067039,Hohenkirchen,99887,Landkreis Gotha,Thüringen
 539089,09184127,Höhenkirchen-Siegertsbrunn,85635,Landkreis München,Bayern
 1332912,12064222,Höhenland,16259,Landkreis Märkisch-Oderland,Brandenburg
 1050565,07131206,Hohenleimbach,56746,Landkreis Ahrweiler,Rheinland-Pfalz
@@ -5379,7 +5350,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 941090,09775126,Holzheim,89291,Landkreis Neu-Ulm,Bayern
 956796,09773140,Holzheim,89438,Landkreis Dillingen an der Donau,Bayern
 962254,09779163,Holzheim,86684,Landkreis Donau-Ries,Bayern
-965021,09375153,Holzheim a.Forst,93183,Landkreis Regensburg,Bayern
+965021,09375153,Holzheim am Forst,93183,Landkreis Regensburg,Bayern
 2789618,08425062,Holzkirch,89183,Alb-Donau-Kreis,Baden-Württemberg
 180670,09679149,Holzkirchen,97292,Landkreis Würzburg,Bayern
 935961,09182120,Holzkirchen,83607,Landkreis Miesbach,Bayern
@@ -5387,11 +5358,11 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1184652,03255023,Holzminden,37603,Landkreis Holzminden,Niedersachsen
 2389088,16065038,Holzsußra,99713,Kyffhäuserkreis,Thüringen
 158415,05978016,Holzwickede,59439,Kreis Unna,Nordrhein-Westfalen
-452196,06634009,Homberg,34576,Schwalm-Eder-Kreis,Hessen
 533250,07143244,Homberg,56479,Westerwaldkreis,Rheinland-Pfalz
 1246763,07336044,Homberg,67742,Landkreis Kusel,Rheinland-Pfalz
 1246763,07336044,Homberg,67744,Landkreis Kusel,Rheinland-Pfalz
 540052,07141058,Hömberg,56379,Rhein-Lahn-Kreis,Rheinland-Pfalz
+452196,06634009,Homberg (Efze),34576,Schwalm-Eder-Kreis,Hessen
 418324,06535009,Homberg (Ohm),35315,Vogelsbergkreis,Hessen
 1184826,10045114,Homburg,66424,Saarpfalz-Kreis,Saarland
 1171890,07232054,Hommerdingen,54675,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
@@ -5402,7 +5373,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1817756,03456009,Hoogstede,49846,Landkreis Grafschaft Bentheim,Niedersachsen
 1451527,13076064,Hoort,19230,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 448304,09777135,Hopferau,87659,Landkreis Ostallgäu,Bayern
-2856998,16071034,Hopfgarten,99428,Landkreis Weimarer Land,Thüringen
 403728,08225039,Höpfingen,74746,Neckar-Odenwald-Kreis,Baden-Württemberg
 1332913,12064227,Hoppegarten,15366,Landkreis Märkisch-Oderland,Brandenburg
 1965798,13072048,Hoppenrade,18292,Landkreis Rostock,Mecklenburg-Vorpommern
@@ -5650,8 +5620,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 53101,08236030,Ispringen,75228,Enzkreis,Baden-Württemberg
 537201,07141064,Isselbach,65558,Rhein-Lahn-Kreis,Rheinland-Pfalz
 162713,05554032,Isselburg,46419,Kreis Borken,Nordrhein-Westfalen
-2856999,16071036,Isseroda,99428,Landkreis Weimarer Land,Thüringen
-2903163,16064029,Issersheilingen,99947,Unstrut-Hainich-Kreis,Thüringen
 1021694,09475137,Issigau,95188,Landkreis Hof,Bayern
 167991,05154020,Issum,47661,Kreis Kleve,Nordrhein-Westfalen
 2012817,03456010,Isterberg,48465,Landkreis Grafschaft Bentheim,Niedersachsen
@@ -5666,10 +5634,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 935251,09173131,Jachenau,83676,Landkreis Bad Tölz-Wolfratshausen,Bayern
 1384844,12067237,Jacobsdorf,15236,Landkreis Oder-Spree,Brandenburg
 548851,03461005,Jade,26349,Landkreis Wesermarsch,Niedersachsen
-1157533,01059043,Jagel,24848,Kreis Schleswig-Flensburg,Schleswig-Holstein
 1157533,01059043,Jagel,24878,Kreis Schleswig-Flensburg,Schleswig-Holstein
 409705,08125048,Jagsthausen,74249,Landkreis Heilbronn,Baden-Württemberg
 915561,08136035,Jagstzell,73489,Ostalbkreis,Baden-Württemberg
+15073014,14522275,Jahnatal,04749,Landkreis Mittelsachsen,Sachsen
 536011,14521310,Jahnsdorf/Erzgebirge,09387,Erzgebirgskreis,Sachsen
 556094,01058085,Jahrsdorf,24594,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 374153,13073041,Jakobsdorf,18442,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
@@ -5790,7 +5758,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 538928,07141065,Kaltenholzhausen,65558,Rhein-Lahn-Kreis,Rheinland-Pfalz
 423184,01060044,Kaltenkirchen,24568,Kreis Segeberg,Schleswig-Holstein
 2900086,16066095,Kaltennordheim,36452,Landkreis Schmalkalden-Meiningen,Thüringen
-2900086,16066095,Kaltennordheim,98634,Landkreis Schmalkalden-Meiningen,Thüringen
 447638,09777141,Kaltental,87662,Landkreis Ostallgäu,Bayern
 310407,01057032,Kalübbe,24326,Kreis Plön,Schleswig-Holstein
 158453,05978020,Kamen,59174,Kreis Unna,Nordrhein-Westfalen
@@ -5995,7 +5962,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 57844,08236031,Kieselbronn,75249,Enzkreis,Baden-Württemberg
 1424156,13071073,Kieve,17209,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
 2857001,16071038,Kiliansroda,99441,Landkreis Weimarer Land,Thüringen
-9206415,16068064,Kindelbrück,06578,Landkreis Sömmerda,Thüringen
 9206415,16068064,Kindelbrück,99638,Landkreis Sömmerda,Thüringen
 1249739,07332029,Kindenheim,67271,Landkreis Bad Dürkheim,Rheinland-Pfalz
 1258638,07231067,Kinderbeuern,54538,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
@@ -6022,10 +5988,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 940709,09183123,Kirchdorf,83527,Landkreis Mühldorf am Inn,Bayern
 956658,09273139,Kirchdorf,93348,Landkreis Kelheim,Bayern
 1675313,03251021,Kirchdorf,27245,Landkreis Diepholz,Niedersachsen
-957067,09277128,Kirchdorf a.Inn,84375,Landkreis Rottal-Inn,Bayern
+957067,09277128,Kirchdorf am Inn,84375,Landkreis Rottal-Inn,Bayern
 30016,09178136,Kirchdorf an der Amper,85414,Landkreis Freising,Bayern
 2801148,08426066,Kirchdorf an der Iller,88457,Landkreis Biberach,Baden-Württemberg
-959167,09276127,Kirchdorf i.Wald,94261,Landkreis Regen,Bayern
+959167,09276127,Kirchdorf im Wald,94261,Landkreis Regen,Bayern
 1080457,09474143,Kirchehrenbach,91356,Landkreis Forchheim,Bayern
 418139,07132062,Kircheib,57635,Landkreis Altenkirchen,Rheinland-Pfalz
 1059430,09374128,Kirchendemenreuth,92665,Landkreis Neustadt an der Waldnaab,Bayern
@@ -6137,7 +6103,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1964777,13072055,Klein Upahl,18276,Landkreis Rostock,Mecklenburg-Vorpommern
 1419598,13071075,Klein Vielen,17237,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
 395349,09676133,Kleinwallstadt,63839,Landkreis Miltenberg,Bayern
-2874752,16064035,Kleinwelsbach,99947,Unstrut-Hainich-Kreis,Thüringen
 532327,01062039,Klein Wesenberg,23860,Kreis Stormarn,Schleswig-Holstein
 1245311,07339032,Klein-Winternheim,55270,Landkreis Mainz-Bingen,Rheinland-Pfalz
 550777,01058088,Klein Wittensee,24361,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
@@ -6179,7 +6144,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1255899,07235063,Klüsserath,54340,Landkreis Trier-Saarburg,Rheinland-Pfalz
 1479631,13074039,Klütz,23946,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 1479631,13074039,Klütz,23948,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
-2179172,16075049,Knau,07389,Saale-Orla-Kreis,Thüringen
 1444890,13074040,Kneese,19205,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 1432629,03158022,Kneitlingen,38170,Landkreis Wolfenbüttel,Niedersachsen
 387772,09674163,Knetzgau,97478,Landkreis Haßberge,Bayern
@@ -6297,9 +6261,9 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1446661,03154013,Königslutter am Elm,38154,Landkreis Helmstedt,Niedersachsen
 335195,03353022,Königsmoor,21255,Landkreis Harburg,Niedersachsen
 943730,09185163,Königsmoos,86669,Landkreis Neuburg-Schrobenhausen,Bayern
-418253,06434005,Königstein,61462,Hochtaunuskreis,Hessen
 534526,14628210,Königstein,01824,Landkreis Sächsische Schweiz-Osterzgebirge,Sachsen
 1028542,09371135,Königstein,92281,Landkreis Amberg-Sulzbach,Bayern
+418253,06434005,Königstein im Taunus,61462,Hochtaunuskreis,Hessen
 536632,14521340,Königswalde,09471,Erzgebirgskreis,Sachsen
 1307708,14625280,Königswartha - Rakecy,02699,Landkreis Bautzen,Sachsen
 173113,05382024,Königswinter,53639,Rhein-Sieg-Kreis,Nordrhein-Westfalen
@@ -6356,8 +6320,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1260240,07235067,Köwerich,54340,Landkreis Trier-Saarburg,Rheinland-Pfalz
 1171857,07232068,Koxhausen,54673,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 418136,07132064,Kraam,57635,Landkreis Altenkirchen,Rheinland-Pfalz
-1407736,13075067,Krackow,17322,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
-1407736,13075067,Krackow,17328,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 1407736,13075067,Krackow,17329,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 970122,07233040,Kradenbach,54552,Landkreis Vulkaneifel,Rheinland-Pfalz
 448112,09777144,Kraftisried,87647,Landkreis Ostallgäu,Bayern
@@ -6434,7 +6396,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2813121,16061062,Krombach,37308,Landkreis Eichsfeld,Thüringen
 1021756,09476145,Kronach,96317,Landkreis Kronach,Bayern
 659805,08215039,Kronau,76709,Landkreis Karlsruhe,Baden-Württemberg
-418112,06434006,Kronberg,61476,Hochtaunuskreis,Hessen
+418112,06434006,Kronberg im Taunus,61476,Hochtaunuskreis,Hessen
 958689,09778161,Kronburg,87758,Landkreis Unterallgäu,Bayern
 191351,09274145,Kröning,84178,Landkreis Landshut,Bayern
 935302,01051062,Kronprinzenkoog,25709,Kreis Dithmarschen,Schleswig-Holstein
@@ -6488,7 +6450,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 448013,01061060,Kudensee,25572,Kreis Steinburg,Schleswig-Holstein
 1250427,07334015,Kuhardt,76773,Landkreis Germersheim,Rheinland-Pfalz
 161966,09771144,Kühbach,86556,Landkreis Aichach-Friedberg,Bayern
-2792761,16076038,Kühdorf,07980,Landkreis Greiz,Thüringen
 1285600,15081290,Kuhfelde,29416,Altmarkkreis Salzwedel,Sachsen-Anhalt
 445850,09772166,Kühlenthal,86707,Landkreis Augsburg,Bayern
 449948,13076078,Kuhlen-Wendorf,19412,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
@@ -6604,7 +6565,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1149286,01059137,Langballig,24977,Kreis Schleswig-Flensburg,Schleswig-Holstein
 959168,09276129,Langdorf,94264,Landkreis Regen,Bayern
 444155,01056034,Langeln,25485,Kreis Pinneberg,Schleswig-Holstein
-1421446,03153007,Langelsheim,38685,Landkreis Goslar,Niedersachsen
+1421446,03153019,Langelsheim,38685,Landkreis Goslar,Niedersachsen
+1421446,03153019,Langelsheim,38729,Landkreis Goslar,Niedersachsen
 659752,06438006,Langen,63225,Landkreis Offenbach,Hessen
 2006835,03454028,Langen,49838,Landkreis Emsland,Niedersachsen
 1015142,09577148,Langenaltheim,91799,Landkreis Weißenburg-Gunzenhausen,Bayern
@@ -6644,6 +6606,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1244157,07133055,Langenthal,55569,Landkreis Bad Kreuznach,Rheinland-Pfalz
 417706,14524150,Langenweißbach,08134,Landkreis Zwickau,Sachsen
 2787453,16076039,Langenwetzendorf,07957,Landkreis Greiz,Thüringen
+2787453,16076039,Langenwetzendorf,07980,Landkreis Greiz,Thüringen
 2779190,16076041,Langenwolschendorf,07937,Landkreis Greiz,Thüringen
 1016398,09573120,Langenzenn,90579,Landkreis Fürth,Bayern
 1187509,03462007,Langeoog,26465,Landkreis Wittmund,Niedersachsen
@@ -6779,7 +6742,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1251058,07340027,Leimen,66978,Landkreis Südwestpfalz,Rheinland-Pfalz
 1250449,07334016,Leimersheim,76774,Landkreis Germersheim,Rheinland-Pfalz
 181149,09679200,Leinach,97274,Landkreis Würzburg,Bayern
-2816395,16067083,Leinatal,99894,Landkreis Gotha,Thüringen
 65151,09574139,Leinburg,91227,Landkreis Nürnberger Land,Bayern
 2393608,16061115,Leinefelde-Worbis,37327,Landkreis Eichsfeld,Thüringen
 2393608,16061115,Leinefelde-Worbis,37339,Landkreis Eichsfeld,Thüringen
@@ -6913,7 +6875,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 535250,14730170,Liebschützberg,04758,Landkreis Nordsachsen,Sachsen
 1241483,07140085,Liebshausen,55494,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 455487,14628230,Liebstadt,01825,Landkreis Sächsische Schweiz-Osterzgebirge,Sachsen
-414800,06436010,Liederbach,65835,Main-Taunus-Kreis,Hessen
+414800,06436010,Liederbach am Taunus,65835,Main-Taunus-Kreis,Hessen
 1266514,07135053,Lieg,56290,Landkreis Cochem-Zell,Rheinland-Pfalz
 155440,05566044,Lienen,49536,Kreis Steinfurt,Nordrhein-Westfalen
 1318363,12060128,Liepe,16248,Landkreis Barnim,Brandenburg
@@ -6933,20 +6895,19 @@ osm_id,ags,ort,plz,landkreis,bundesland
 453164,07143257,Limbach,57629,Westerwaldkreis,Rheinland-Pfalz
 1244081,07133059,Limbach,55606,Landkreis Bad Kreuznach,Rheinland-Pfalz
 283719,14524180,Limbach-Oberfrohna,09212,Landkreis Zwickau,Sachsen
-324307,06533009,Limburg a. d. Lahn,65549,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65550,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65551,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65552,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65553,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65554,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65555,Landkreis Limburg-Weilburg,Hessen
-324307,06533009,Limburg a. d. Lahn,65556,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65549,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65550,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65551,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65552,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65553,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65554,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65555,Landkreis Limburg-Weilburg,Hessen
+324307,06533009,Limburg an der Lahn,65556,Landkreis Limburg-Weilburg,Hessen
 418404,07338017,Limburgerhof,67117,Rhein-Pfalz-Kreis,Rheinland-Pfalz
 450112,06440014,Limeshain,63694,Wetteraukreis,Hessen
 1465816,01053085,Linau,22959,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 548049,07137063,Lind,56729,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 1021834,07131047,Lind,53506,Landkreis Ahrweiler,Rheinland-Pfalz
-2179190,16075061,Linda,07819,Saale-Orla-Kreis,Thüringen
 2789093,16076043,Linda b. Weida,07580,Landkreis Greiz,Thüringen
 548494,01058096,Lindau,24214,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 959426,09776116,Lindau (Bodensee),88131,Landkreis Lindau,Bayern
@@ -7181,7 +7142,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 548603,01058100,Lütjenwestedt,25585,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 1432372,13075087,Lütow,17440,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 2396126,16061067,Lutter,37318,Landkreis Eichsfeld,Thüringen
-2016595,03153009,Lutter am Barenberge,38729,Landkreis Goslar,Niedersachsen
 288259,01057049,Lutterbek,24235,Kreis Plön,Schleswig-Holstein
 1451524,13076092,Lüttow-Valluhn,19246,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1266503,07135056,Lütz,56290,Landkreis Cochem-Zell,Rheinland-Pfalz
@@ -7195,7 +7155,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 548050,07137066,Luxem,56729,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 1334117,12073384,Lychen,17279,Landkreis Uckermark,Brandenburg
 539903,07141083,Lykershausen,56346,Rhein-Lahn-Kreis,Rheinland-Pfalz
-1149275,01059141,Maasbüll,24975,Kreis Schleswig-Flensburg,Schleswig-Holstein
 2014017,03251024,Maasen,27249,Landkreis Diepholz,Niedersachsen
 1145349,01059142,Maasholm,24404,Kreis Schleswig-Flensburg,Schleswig-Holstein
 422922,14729250,Machern,04827,Landkreis Leipzig,Sachsen
@@ -7328,7 +7287,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1302388,12068306,Märkisch Linden,16818,Landkreis Ostprignitz-Ruppin,Brandenburg
 1266347,12063186,Märkisch Luch,14715,Landkreis Havelland,Brandenburg
 93399,14729260,Markkleeberg,04416,Landkreis Leipzig,Sachsen
-1334091,12073386,Mark Landin,16278,Landkreis Uckermark,Brandenburg
 959905,09279126,Marklkofen,84163,Landkreis Dingolfing-Landau,Bayern
 1183265,03256021,Marklohe,31608,Landkreis Nienburg/Weser,Niedersachsen
 443525,14523200,Markneukirchen,08258,Vogtlandkreis,Sachsen
@@ -7378,7 +7336,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 289959,01057050,Martensrade,24238,Kreis Plön,Schleswig-Holstein
 1182392,03251026,Martfeld,27327,Landkreis Diepholz,Niedersachsen
 2395942,16061069,Marth,37318,Landkreis Eichsfeld,Thüringen
-165449,16070034,Martinroda,98693,Ilm-Kreis,Thüringen
+10519512,16070034,Martinroda,98693,Ilm-Kreis,Thüringen
 282303,09675150,Martinsheim,97340,Landkreis Kitzingen,Bayern
 1253814,07335203,Martinshöhe,66894,Landkreis Kaiserslautern,Rheinland-Pfalz
 1244164,07133062,Martinstein,55627,Landkreis Bad Kreuznach,Rheinland-Pfalz
@@ -7467,7 +7425,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 549416,06636007,Meinhard,37276,Werra-Meißner-Kreis,Hessen
 1015120,09577150,Meinheim,91802,Landkreis Weißenburg-Gunzenhausen,Bayern
 2247548,16066042,Meiningen,98617,Landkreis Schmalkalden-Meiningen,Thüringen
-2247548,16066042,Meiningen,98639,Landkreis Schmalkalden-Meiningen,Thüringen
 1085799,07233043,Meisburg,54570,Landkreis Vulkaneifel,Rheinland-Pfalz
 1244061,07133065,Meisenheim,55590,Landkreis Bad Kreuznach,Rheinland-Pfalz
 546775,14627140,Meißen,01662,Landkreis Meißen,Sachsen
@@ -7501,8 +7458,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 959904,09279127,Mengkofen,84152,Landkreis Dingolfing-Landau,Bayern
 1163501,07232078,Menningen,54310,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1808583,03459025,Menslage,49637,Landkreis Osnabrück,Niedersachsen
-2902834,16064072,Menteroda,99976,Unstrut-Hainich-Kreis,Thüringen
-2902834,16064072,Menteroda,99996,Unstrut-Hainich-Kreis,Thüringen
 1479212,13074052,Menzendorf,23923,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 1075125,03454035,Meppen,49716,Landkreis Emsland,Niedersachsen
 396003,09771145,Merching,86504,Landkreis Aichach-Friedberg,Bayern
@@ -7564,7 +7519,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1060431,07131050,Meuspath,53520,Landkreis Ahrweiler,Rheinland-Pfalz
 1289815,12070280,Meyenburg,16945,Landkreis Prignitz,Brandenburg
 1156029,01059144,Meyn,24980,Kreis Schleswig-Flensburg,Schleswig-Holstein
-1026862,09478145,Michelau in Oberfranken,96247,Landkreis Lichtenfels,Bayern
+1026862,09478145,Michelau i.OFr.,96247,Landkreis Lichtenfels,Bayern
 318258,09678157,Michelau i.Steigerwald,97513,Landkreis Schweinfurt,Bayern
 418871,07132070,Michelbach,57610,Landkreis Altenkirchen,Rheinland-Pfalz
 1204714,07140095,Michelbach,56288,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
@@ -7581,7 +7536,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 935948,09182125,Miesbach,83714,Landkreis Miesbach,Bayern
 2179192,16075065,Miesitz,07819,Saale-Orla-Kreis,Thüringen
 2801348,08426073,Mietingen,88487,Landkreis Biberach,Baden-Württemberg
-2899669,16063055,Mihla,99826,Wartburgkreis,Thüringen
 2778389,16074057,Milda,07751,Saale-Holzland-Kreis,Thüringen
 536634,14521400,Mildenau,09456,Erzgebirgskreis,Sachsen
 1405172,01054084,Mildstedt,25866,Kreis Nordfriesland,Schleswig-Holstein
@@ -7688,7 +7642,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 62410,05116000,Mönchengladbach,41236,,Nordrhein-Westfalen
 62410,05116000,Mönchengladbach,41238,,Nordrhein-Westfalen
 62410,05116000,Mönchengladbach,41239,,Nordrhein-Westfalen
-2857009,16071057,Mönchenholzhausen,99198,Landkreis Weimarer Land,Thüringen
 7885533,13073107,Mönchgut,18586,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
 393340,13072072,Mönchhagen,18182,Landkreis Rostock,Mecklenburg-Vorpommern
 2387351,16065046,Mönchpfiffel-Nikolausrieth,06556,Kyffhäuserkreis,Thüringen
@@ -7713,7 +7666,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1244152,07133067,Monzingen,55569,Landkreis Bad Kreuznach,Rheinland-Pfalz
 450524,01061068,Moordiek,25597,Kreis Steinburg,Schleswig-Holstein
 933548,09179138,Moorenweis,82272,Landkreis Fürstenfeldbruck,Bayern
-2836719,16063094,Moorgrund,36433,Wartburgkreis,Thüringen
 448556,01061070,Moorhusen,25554,Kreis Steinburg,Schleswig-Holstein
 1187825,03457014,Moormerland,26802,Landkreis Leer,Niedersachsen
 443194,01056036,Moorrege,25436,Kreis Pinneberg,Schleswig-Holstein
@@ -7878,6 +7830,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 62428,09162000,München,81243,,Bayern
 62428,09162000,München,81245,,Bayern
 62428,09162000,München,81247,,Bayern
+62428,09162000,München,81248,,Bayern
 62428,09162000,München,81249,,Bayern
 62428,09162000,München,81369,,Bayern
 62428,09162000,München,81371,,Bayern
@@ -7951,7 +7904,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 452392,06432015,Münster (Hessen),64839,Landkreis Darmstadt-Dieburg,Hessen
 543127,07137501,Münstermaifeld,56294,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 1239648,07339038,Münster-Sarmsheim,55424,Landkreis Mainz-Bingen,Rheinland-Pfalz
-72264,08315130,Münstertal/Schwarzwald,79244,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
+72264,08315130,Münstertal,79244,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 446510,06440015,Münzenberg,35516,Wetteraukreis,Hessen
 1433744,13075094,Murchin,17390,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 2787776,08337076,Murg,79730,Landkreis Waldshut,Baden-Württemberg
@@ -8000,7 +7953,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 453721,06633018,Naumburg,34311,Landkreis Kassel,Hessen
 2403974,15084355,Naumburg (Saale),06618,Burgenlandkreis,Sachsen-Anhalt
 2403974,15084355,Naumburg (Saale),06628,Burgenlandkreis,Sachsen-Anhalt
-535246,14730210,Naundorf,04758,Landkreis Nordsachsen,Sachsen
 535246,14730210,Naundorf,04769,Landkreis Nordsachsen,Sachsen
 543128,07137080,Naunheim,56753,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 422341,14729300,Naunhof,04683,Landkreis Leipzig,Sachsen
@@ -8043,7 +7995,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1311136,14626330,Neißeaue,02829,Landkreis Görlitz,Sachsen
 1322606,12071294,Neiße-Malxetal,03159,Landkreis Spree-Neiße,Brandenburg
 1384826,12067338,Neißemünde,15898,Landkreis Oder-Spree,Brandenburg
-418866,07132074,Neitersen,57638,Landkreis Altenkirchen,Rheinland-Pfalz
+418866,07132502,Neitersen,57638,Landkreis Altenkirchen,Rheinland-Pfalz
 2772188,08425084,Nellingen,89191,Alb-Donau-Kreis,Baden-Württemberg
 2396221,15088250,Nemsdorf-Göhrendorf,06268,Saalekreis,Sachsen-Anhalt
 2012365,03462009,Nenndorf,26556,Landkreis Wittmund,Niedersachsen
@@ -8068,7 +8020,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 88686,05166016,Nettetal,41334,Kreis Viersen,Nordrhein-Westfalen
 538927,07141093,Netzbach,65623,Rhein-Lahn-Kreis,Rheinland-Pfalz
 446592,14523260,Netzschkau,08491,Vogtlandkreis,Sachsen
-968897,09377142,Neualbenreuth,95698,Landkreis Tirschenreuth,Bayern
 418434,06434007,Neu-Anspach,61267,Hochtaunuskreis,Hessen
 1246416,07133069,Neu-Bamberg,55546,Landkreis Bad Kreuznach,Rheinland-Pfalz
 1149458,01059062,Neuberend,24879,Kreis Schleswig-Flensburg,Schleswig-Holstein
@@ -8086,11 +8037,11 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1183344,08235047,Neubulach,75385,Landkreis Calw,Baden-Württemberg
 1183344,08235047,Neubulach,75387,Landkreis Calw,Baden-Württemberg
 1515659,13074056,Neuburg,23974,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
-964465,09774162,Neuburg a.d.Kammel,86476,Landkreis Günzburg,Bayern
-958106,09275133,Neuburg a.Inn,94036,Landkreis Passau,Bayern
-958106,09275133,Neuburg a.Inn,94127,Landkreis Passau,Bayern
+958106,09275133,Neuburg am Inn,94036,Landkreis Passau,Bayern
+958106,09275133,Neuburg am Inn,94127,Landkreis Passau,Bayern
 1250484,07334021,Neuburg am Rhein,76776,Landkreis Germersheim,Rheinland-Pfalz
 943684,09185149,Neuburg an der Donau,86633,Landkreis Neuburg-Schrobenhausen,Bayern
+964465,09774162,Neuburg an der Kammel,86476,Landkreis Günzburg,Bayern
 934741,09177131,Neuching,85467,Landkreis Erding,Bayern
 1821290,03354019,Neu Darchau,29490,Landkreis Lüchow-Dannenberg,Niedersachsen
 409713,08125068,Neudenau,74861,Landkreis Heilbronn,Baden-Württemberg
@@ -8192,17 +8143,15 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1258387,07231092,Neumagen-Dhron,54347,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
 446596,14523280,Neumark,08496,Vogtlandkreis,Sachsen
 2856454,16071061,Neumark,99439,Landkreis Weimarer Land,Thüringen
-1028812,09373147,Neumarkt i.d.OPf.,92318,Landkreis Neumarkt in der Oberpfalz,Bayern
-1028812,09373147,Neumarkt i.d.OPf.,92348,Landkreis Neumarkt in der Oberpfalz,Bayern
+1028812,09373147,Neumarkt in der Oberpfalz,92318,Landkreis Neumarkt in der Oberpfalz,Bayern
+1028812,09373147,Neumarkt in der Oberpfalz,92348,Landkreis Neumarkt in der Oberpfalz,Bayern
 944899,09183129,Neumarkt-Sankt Veit,84494,Landkreis Mühldorf am Inn,Bayern
-2788892,16076052,Neumühle/Elster,07980,Landkreis Greiz,Thüringen
 62528,01004000,Neumünster,24534,,Schleswig-Holstein
 62528,01004000,Neumünster,24536,,Schleswig-Holstein
 62528,01004000,Neumünster,24537,,Schleswig-Holstein
 62528,01004000,Neumünster,24539,,Schleswig-Holstein
 962087,09376147,Neunburg vorm Wald,92431,Landkreis Schwandorf,Bayern
 2179197,16075072,Neundorf,07924,Saale-Orla-Kreis,Thüringen
-2903168,16064048,Neunheilingen,99947,Unstrut-Hainich-Kreis,Thüringen
 451713,07143270,Neunkhausen,57520,Westerwaldkreis,Rheinland-Pfalz
 163257,05970036,Neunkirchen,57290,Kreis Siegen-Wittgenstein,Nordrhein-Westfalen
 393540,09676143,Neunkirchen,63930,Landkreis Miltenberg,Bayern
@@ -8245,11 +8194,11 @@ osm_id,ags,ort,plz,landkreis,bundesland
 163307,05162024,Neuss,41470,Rhein-Kreis Neuss,Nordrhein-Westfalen
 163307,05162024,Neuss,41472,Rhein-Kreis Neuss,Nordrhein-Westfalen
 225497,06534016,Neustadt,35279,Landkreis Marburg-Biedenkopf,Hessen
-956656,09273152,Neustadt a.d.Donau,93333,Landkreis Kelheim,Bayern
 335458,09677166,Neustadt a.Main,97845,Landkreis Main-Spessart,Bayern
 1059431,09374140,Neustadt am Kulm,95514,Landkreis Neustadt an der Waldnaab,Bayern
 1162990,03241012,Neustadt am Rübenberge,31535,Region Hannover,Niedersachsen
 357040,09575153,Neustadt an der Aisch,91413,Landkreis Neustadt an der Aisch-Bad Windsheim,Bayern
+956656,09273152,Neustadt an der Donau,93333,Landkreis Kelheim,Bayern
 2179198,16075073,Neustadt an der Orla,07806,Saale-Orla-Kreis,Thüringen
 1059448,09374139,Neustadt an der Waldnaab,92660,Landkreis Neustadt an der Waldnaab,Bayern
 62724,07316000,Neustadt an der Weinstraße,67433,,Rheinland-Pfalz
@@ -8350,7 +8299,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1169410,03257025,Niedernwöhren,31712,Landkreis Schaumburg,Niedersachsen
 1258882,07231095,Niederöfflingen,54533,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
 1239640,07339042,Nieder-Olm,55268,Landkreis Mainz-Bingen,Rheinland-Pfalz
-2813068,16061074,Niederorschel,37327,Landkreis Eichsfeld,Thüringen
 2813068,16061074,Niederorschel,37355,Landkreis Eichsfeld,Thüringen
 1252821,07337056,Niederotterbach,76889,Landkreis Südliche Weinstraße,Rheinland-Pfalz
 1113762,07232277,Niederpierscheid,54649,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
@@ -8387,7 +8335,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1245113,07134060,Niederwörresbach,55758,Landkreis Birkenfeld,Rheinland-Pfalz
 536013,14521430,Niederwürschnitz,09399,Erzgebirgskreis,Sachsen
 163305,05358048,Niederzier,52382,Kreis Düren,Nordrhein-Westfalen
-2857011,16071065,Niederzimmern,99428,Landkreis Weimarer Land,Thüringen
 1050566,07131055,Niederzissen,56651,Landkreis Ahrweiler,Rheinland-Pfalz
 307876,08236046,Niefern-Öschelbronn,75223,Enzkreis,Baden-Württemberg
 148596,05762028,Nieheim,33039,Kreis Höxter,Nordrhein-Westfalen
@@ -8433,7 +8380,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1244281,07134061,Nohen,55767,Landkreis Birkenfeld,Rheinland-Pfalz
 1184602,10046114,Nohfelden,66625,Landkreis St. Wendel,Saarland
 331057,07233229,Nohn,54578,Landkreis Vulkaneifel,Rheinland-Pfalz
-2857012,16071067,Nohra,99428,Landkreis Weimarer Land,Thüringen
 453847,07143055,Nomborn,56412,Westerwaldkreis,Rheinland-Pfalz
 812182,09776120,Nonnenhorn,88149,Landkreis Lindau,Bayern
 1184607,10046115,Nonnweiler,66620,Landkreis St. Wendel,Saarland
@@ -8493,6 +8439,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1451561,13076106,Nostorf,19258,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1251125,07340034,Nothweiler,76891,Landkreis Südwestpfalz,Rheinland-Pfalz
 444927,03359034,Nottensdorf,21640,Landkreis Stade,Niedersachsen
+10519435,16064077,Nottertal-Heilinger Höhen,99994,Unstrut-Hainich-Kreis,Thüringen
 1149227,01059065,Nottfeld,24392,Kreis Schleswig-Flensburg,Schleswig-Holstein
 2818335,16067052,Nottleben,99192,Landkreis Gotha,Thüringen
 157766,05558032,Nottuln,48301,Kreis Coesfeld,Nordrhein-Westfalen
@@ -8638,12 +8585,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 957922,09780131,Obermaiselstein,87538,Landkreis Oberallgäu,Bayern
 2803465,08425090,Obermarchtal,89611,Alb-Donau-Kreis,Baden-Württemberg
 2247388,16066049,Obermaßfeld-Grimmenthal,98617,Landkreis Schmalkalden-Meiningen,Thüringen
-2902835,16064052,Obermehler,99996,Unstrut-Hainich-Kreis,Thüringen
 933794,09181131,Obermeitingen,86836,Landkreis Landsberg am Lech,Bayern
 1016402,09573123,Obermichelbach,90587,Landkreis Fürth,Bayern
 447064,06440018,Ober-Mörlen,61239,Wetteraukreis,Hessen
 1253868,07333054,Obermoschel,67823,Donnersbergkreis,Rheinland-Pfalz
-416404,07132084,Obernau,57638,Landkreis Altenkirchen,Rheinland-Pfalz
 282306,09675156,Obernbreit,97342,Landkreis Kitzingen,Bayern
 395322,09676145,Obernburg am Main,63785,Landkreis Miltenberg,Bayern
 1180888,03352042,Oberndorf,21787,Landkreis Cuxhaven,Niedersachsen
@@ -8731,7 +8676,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1246672,07336073,Oberweiler-Tiefenbach,67752,Landkreis Kusel,Rheinland-Pfalz
 1152712,07232099,Oberweis,54636,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1190008,07140112,Oberwesel,55430,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
-1112225,06633021,Oberweser,34399,Landkreis Kassel,Hessen
 413532,14524240,Oberwiera,08396,Landkreis Zwickau,Sachsen
 540063,07141106,Oberwies,56379,Rhein-Lahn-Kreis,Rheinland-Pfalz
 1254059,07333056,Oberwiesen,67294,Donnersbergkreis,Rheinland-Pfalz
@@ -8774,7 +8718,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 450518,01061079,Oelixdorf,25524,Kreis Steinburg,Schleswig-Holstein
 540469,07141107,Oelsberg,56357,Rhein-Lahn-Kreis,Rheinland-Pfalz
 536017,14521450,Oelsnitz/Erzgeb.,09376,Erzgebirgskreis,Sachsen
-443861,14523300,Oelsnitz/Vogtl.,08606,Vogtlandkreis,Sachsen
+443861,14523300,Oelsnitz/Vogtland,08606,Vogtlandkreis,Sachsen
 1079021,03357035,Oerel,27432,Landkreis Rotenburg (Wümme),Niedersachsen
 63502,05562028,Oer-Erkenschwick,45739,Kreis Recklinghausen,Nordrhein-Westfalen
 422854,01060065,Oering,23845,Kreis Segeberg,Schleswig-Holstein
@@ -8926,7 +8870,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 188238,03356007,Osterholz-Scharmbeck,27711,Landkreis Osterholz,Niedersachsen
 444183,01056038,Osterhorn,25364,Kreis Pinneberg,Schleswig-Holstein
 1329406,15082256,Osternienburger Land,06386,Landkreis Anhalt-Bitterfeld,Sachsen-Anhalt
-1416133,03159026,Osterode,37520,Landkreis Göttingen,Niedersachsen
+1416133,03159026,Osterode am Harz,37520,Landkreis Göttingen,Niedersachsen
 1406825,01054101,Oster-Ohrstedt,25885,Kreis Nordfriesland,Schleswig-Holstein
 443086,01051086,Osterrade,25767,Kreis Dithmarschen,Schleswig-Holstein
 548569,01058124,Osterrönfeld,24783,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
@@ -8942,7 +8886,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 902668,07331055,Osthofen,67574,Landkreis Alzey-Worms,Rheinland-Pfalz
 2805481,08437086,Ostrach,88356,Landkreis Sigmaringen,Baden-Württemberg
 2410099,16068041,Ostramondra,99636,Landkreis Sömmerda,Thüringen
-415411,14522450,Ostrau,04749,Landkreis Mittelsachsen,Sachsen
 1470258,03457017,Ostrhauderfehn,26842,Landkreis Leer,Niedersachsen
 659807,08215064,Östringen,76684,Landkreis Karlsruhe,Baden-Württemberg
 418648,14626420,Ostritz,02899,Landkreis Görlitz,Sachsen
@@ -8975,7 +8918,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 958671,09778186,Ottobeuren,87724,Landkreis Unterallgäu,Bayern
 2168250,09184136,Ottobrunn,85521,Landkreis München,Bayern
 452215,06634020,Ottrau,34633,Schwalm-Eder-Kreis,Hessen
-2857014,16071073,Ottstedt am Berge,99428,Landkreis Weimarer Land,Thüringen
 1187148,10043115,Ottweiler,66564,Landkreis Neunkirchen,Saarland
 452390,06432017,Otzberg,64853,Landkreis Darmstadt-Dieburg,Hessen
 959816,09271143,Otzing,94563,Landkreis Deggendorf,Bayern
@@ -9007,7 +8949,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1451521,13076107,Pampow,19075,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 288914,01057055,Panker,24321,Kreis Plön,Schleswig-Holstein
 1318329,12060181,Panketal,16341,Landkreis Barnim,Brandenburg
-1307659,14625440,Panschwitz-Kuckau - Panćicy-Kukow,01920,Landkreis Bautzen,Sachsen
+1307659,14625440,Panschwitz-Kuckau - Pančicy-Kukow,01920,Landkreis Bautzen,Sachsen
 374197,13073061,Pantelitz,18442,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
 1465974,01053097,Panten,23896,Kreis Herzogtum Lauenburg,Schleswig-Holstein
 1258865,07231104,Pantenburg,54531,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
@@ -9037,7 +8979,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 62629,09262000,Passau,94036,,Bayern
 1515754,13074060,Passee,23992,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 449886,13076109,Passow,19386,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
-1334095,12073603,Passow,16306,Landkreis Uckermark,Brandenburg
 934746,09177135,Pastetten,85669,Landkreis Erding,Bayern
 539910,07141109,Patersberg,56348,Rhein-Lahn-Kreis,Rheinland-Pfalz
 959156,09276134,Patersdorf,94265,Landkreis Regen,Bayern
@@ -9101,16 +9042,15 @@ osm_id,ags,ort,plz,landkreis,bundesland
 934479,09174136,Petershausen,85238,Landkreis Dachau,Bayern
 335488,07132089,Peterslahr,57632,Landkreis Altenkirchen,Rheinland-Pfalz
 1269724,07135071,Peterswald-Löffelscheid,56858,Landkreis Cochem-Zell,Rheinland-Pfalz
-2816636,16067054,Petriroda,99887,Landkreis Gotha,Thüringen
 965010,09375181,Pettendorf,93186,Landkreis Regensburg,Bayern
 941671,09189135,Petting,83367,Landkreis Traunstein,Bayern
 1077569,09471169,Pettstadt,96175,Landkreis Bamberg,Bayern
 2179204,16075081,Peuschen,07389,Saale-Orla-Kreis,Thüringen
 957724,09778187,Pfaffenhausen,87772,Landkreis Unterallgäu,Bayern
 410518,08125081,Pfaffenhofen,74397,Landkreis Heilbronn,Baden-Württemberg
-941076,09775143,Pfaffenhofen a.d.Roth,89284,Landkreis Neu-Ulm,Bayern
 546954,09174137,Pfaffenhofen an der Glonn,85235,Landkreis Dachau,Bayern
 396556,09186143,Pfaffenhofen an der Ilm,85276,Landkreis Pfaffenhofen an der Ilm,Bayern
+941076,09775143,Pfaffenhofen an der Roth,89284,Landkreis Neu-Ulm,Bayern
 1244008,07133078,Pfaffen-Schwabenheim,55546,Landkreis Bad Kreuznach,Rheinland-Pfalz
 1946219,08315089,Pfaffenweiler,79292,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 2186931,09187159,Pfaffing,83539,Landkreis Rosenheim,Bayern
@@ -9145,7 +9085,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 659806,08215066,Philippsburg,76661,Landkreis Karlsruhe,Baden-Württemberg
 1162787,07232104,Philippsheim,54662,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 958959,09272139,Philippsreut,94158,Landkreis Freyung-Grafenau,Bayern
-275115,06632016,Philippsthal,36269,Landkreis Hersfeld-Rotenburg,Hessen
+275115,06632016,Philippsthal (Werra),36269,Landkreis Hersfeld-Rotenburg,Hessen
 1451546,13076111,Picher,19230,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 1140555,07232105,Pickließem,54647,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 941790,09172128,Piding,83451,Landkreis Berchtesgadener Land,Bayern
@@ -9248,7 +9188,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1395415,01054104,Poppenbüll,25836,Kreis Nordfriesland,Schleswig-Holstein
 393355,13072081,Poppendorf,18184,Landkreis Rostock,Mecklenburg-Vorpommern
 325551,09678168,Poppenhausen,97490,Landkreis Schweinfurt,Bayern
-454884,06631021,Poppenhausen,36163,Landkreis Fulda,Hessen
+454884,06631021,Poppenhausen (Wasserkuppe),36163,Landkreis Fulda,Hessen
 1028561,09371144,Poppenricht,92284,Landkreis Amberg-Sulzbach,Bayern
 2179207,16075084,Pörmitz,07907,Saale-Orla-Kreis,Thüringen
 387306,09186144,Pörnbach,85309,Landkreis Pfaffenhofen an der Ilm,Bayern
@@ -9286,7 +9226,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1070973,09472180,Prebitz,95473,Landkreis Bayreuth,Bayern
 310389,01057062,Preetz,24211,Kreis Plön,Schleswig-Holstein
 374201,13073066,Preetz,18445,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
-1113754,07232294,Preischeid,54673,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1113754,07232294,Preischeid,54689,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 1162784,07232107,Preist,54664,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
 936771,09190143,Prem,86984,Landkreis Weilheim-Schongau,Bayern
@@ -9385,7 +9324,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 551230,14627220,Radeburg,01471,Landkreis Meißen,Sachsen
 173815,05374036,Radevormwald,42477,Oberbergischer Kreis,Nordrhein-Westfalen
 1309632,14625490,Radibor - Radwor,02627,Landkreis Bautzen,Sachsen
-2784987,08335063,Radolfzell,78315,Landkreis Konstanz,Baden-Württemberg
+2784987,08335063,Radolfzell am Bodensee,78315,Landkreis Konstanz,Baden-Württemberg
 162718,05554040,Raesfeld,46348,Kreis Borken,Nordrhein-Westfalen
 1384834,12067397,Ragow-Merz,15848,Landkreis Oder-Spree,Brandenburg
 1329609,15082301,Raguhn-Jeßnitz,06779,Landkreis Anhalt-Bitterfeld,Sachsen-Anhalt
@@ -9420,7 +9359,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 162462,12072340,Rangsdorf,15834,Landkreis Teltow-Fläming,Brandenburg
 2179210,16075088,Ranis,07389,Saale-Orla-Kreis,Thüringen
 1433085,13075114,Rankwitz,17406,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
-2856463,16071077,Rannstedt,99518,Landkreis Weimarer Land,Thüringen
 383671,09672143,Rannungen,97517,Landkreis Bad Kissingen,Bayern
 532375,07143062,Ransbach-Baumbach,56235,Westerwaldkreis,Rheinland-Pfalz
 1252637,07337065,Ranschbach,76829,Landkreis Südliche Weinstraße,Rheinland-Pfalz
@@ -9544,7 +9482,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1245056,07134068,Reichenbach,55776,Landkreis Birkenfeld,Rheinland-Pfalz
 2778403,16074075,Reichenbach,07629,Saale-Holzland-Kreis,Thüringen
 5818742,14523340,Reichenbach,08468,Vogtlandkreis,Sachsen
-5818742,14523340,Reichenbach,08491,Vogtlandkreis,Sachsen
 5818742,14523340,Reichenbach,08499,Vogtlandkreis,Sachsen
 1231964,08327040,Reichenbach am Heuberg,78564,Landkreis Tuttlingen,Baden-Württemberg
 2792737,08116058,Reichenbach an der Fils,73262,Landkreis Esslingen,Baden-Württemberg
@@ -9732,7 +9669,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1241481,07140127,Riesweiler,55499,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 78758,05754032,Rietberg,33397,Kreis Gütersloh,Nordrhein-Westfalen
 1231965,08327056,Rietheim-Weilheim,78604,Landkreis Tuttlingen,Baden-Württemberg
-2410101,16068043,Riethgen,99638,Landkreis Sömmerda,Thüringen
 2411246,16068044,Riethnordhausen,99195,Landkreis Sömmerda,Thüringen
 1311129,14626460,Rietschen - Rěčicy,02956,Landkreis Görlitz,Sachsen
 1384840,12067426,Rietz-Neuendorf,15848,Landkreis Oder-Spree,Brandenburg
@@ -9771,7 +9707,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 446620,06440022,Rockenberg,35519,Wetteraukreis,Hessen
 1253988,07333502,Rockenhausen,67806,Donnersbergkreis,Rheinland-Pfalz
 1074563,07233058,Rockeskyll,54570,Landkreis Vulkaneifel,Rheinland-Pfalz
-393580,16070044,Rockhausen,99102,Ilm-Kreis,Thüringen
 534398,09571192,Röckingen,91740,Landkreis Ansbach,Bayern
 2389089,16065058,Rockstedt,99713,Kyffhäuserkreis,Thüringen
 1427890,13071125,Röckwitz,17091,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
@@ -10026,7 +9961,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 387519,09673160,Saal a.d.Saale,97633,Landkreis Rhön-Grabfeld,Bayern
 2179213,16075135,Saalburg-Ebersdorf,07929,Saale-Orla-Kreis,Thüringen
 941756,09172130,Saaldorf-Surheim,83416,Landkreis Berchtesgadener Land,Bayern
-2856465,16071099,Saaleplatte,99510,Landkreis Weimarer Land,Thüringen
 1273359,16073077,Saalfeld/Saale,07318,Landkreis Saalfeld-Rudolstadt,Thüringen
 1250997,07340041,Saalstadt,66919,Landkreis Südwestpfalz,Rheinland-Pfalz
 2804575,16076064,Saara,07589,Landkreis Greiz,Thüringen
@@ -10086,7 +10020,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2186939,09187172,Samerberg,83122,Landkreis Rosenheim,Bayern
 2012780,03456020,Samern,48465,Landkreis Grafschaft Bentheim,Niedersachsen
 1438068,13073079,Samtens,18573,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
-387771,09674195,Sand a.Main,97522,Landkreis Haßberge,Bayern
+387771,09674195,Sand a. Main,97522,Landkreis Haßberge,Bayern
 1284759,15090445,Sandau (Elbe),39524,Landkreis Stendal,Sachsen-Anhalt
 387470,09673162,Sandberg,97657,Landkreis Rhön-Grabfeld,Bayern
 1023212,03357040,Sandbostel,27446,Landkreis Rotenburg (Wümme),Niedersachsen
@@ -10119,7 +10053,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 938081,01051097,Sankt Michaelisdonn,25693,Kreis Dithmarschen,Schleswig-Holstein
 958979,09272143,Sankt Oswald-Riedlhütte,94566,Landkreis Freyung-Grafenau,Bayern
 958979,09272143,Sankt Oswald-Riedlhütte,94568,Landkreis Freyung-Grafenau,Bayern
-1950429,08315095,Sankt Peter,79271,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 1395345,01054113,Sankt Peter-Ording,25826,Kreis Nordfriesland,Schleswig-Holstein
 548980,07137222,Sankt Sebastian,56220,Landkreis Mayen-Koblenz,Rheinland-Pfalz
 1140561,07232113,Sankt Thomas,54655,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
@@ -10141,7 +10074,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1392805,03151025,Sassenburg,38524,Landkreis Gifhorn,Niedersachsen
 1427502,13075123,Sassen-Trantow,17121,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern
 1437541,13073080,Sassnitz,18546,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern
-1109692,03453013,Saterland,26683,Landkreis Cloppenburg,Niedersachsen
+1109692,03453013,Saterland - Seelterlound,26683,Landkreis Cloppenburg,Niedersachsen
 394334,13072093,Satow,18239,Landkreis Rostock,Mecklenburg-Vorpommern
 390786,08127073,Satteldorf,74589,Landkreis Schwäbisch Hall,Baden-Württemberg
 446430,03359037,Sauensiek,21644,Landkreis Stade,Niedersachsen
@@ -10297,7 +10230,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 138170,05754036,Schloß Holte-Stukenbrock,33758,Kreis Gütersloh,Nordrhein-Westfalen
 2411292,16068048,Schloßvippach,99195,Landkreis Sömmerda,Thüringen
 450217,01061098,Schlotfeld,25551,Kreis Steinburg,Schleswig-Holstein
-2902826,16064057,Schlotheim,99994,Unstrut-Hainich-Kreis,Thüringen
 317469,08315102,Schluchsee,79859,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 535941,06435025,Schlüchtern,36381,Main-Kinzig-Kreis,Hessen
 1077560,09471220,Schlüsselfeld,96132,Landkreis Bamberg,Bayern
@@ -10325,7 +10257,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1250992,07340224,Schmitshausen,66484,Landkreis Südwestpfalz,Rheinland-Pfalz
 1250992,07340224,Schmitshausen,66917,Landkreis Südwestpfalz,Rheinland-Pfalz
 1269812,07135078,Schmitt,56825,Landkreis Cochem-Zell,Rheinland-Pfalz
-418358,06434009,Schmitten,61389,Hochtaunuskreis,Hessen
+418358,06434009,Schmitten im Taunus,61389,Hochtaunuskreis,Hessen
 1244064,07133090,Schmittweiler,67829,Landkreis Bad Kreuznach,Rheinland-Pfalz
 1328962,12071341,Schmogrow-Fehrow,03096,Landkreis Spree-Neiße,Brandenburg
 2527958,16077043,Schmölln,04626,Landkreis Altenburger Land,Thüringen
@@ -10397,10 +10329,9 @@ osm_id,ags,ort,plz,landkreis,bundesland
 65420,15089305,Schönebeck (Elbe),39218,Salzlandkreis,Sachsen-Anhalt
 416450,07132099,Schöneberg,57638,Landkreis Altenkirchen,Rheinland-Pfalz
 1243991,07133091,Schöneberg,55444,Landkreis Bad Kreuznach,Rheinland-Pfalz
-1334082,12073505,Schöneberg,16278,Landkreis Uckermark,Brandenburg
-443863,14523370,Schöneck,08261,Vogtlandkreis,Sachsen
 535890,06435026,Schöneck,61137,Main-Kinzig-Kreis,Hessen
 1108040,07232304,Schönecken,54614,Eifelkreis Bitburg-Prüm,Rheinland-Pfalz
+443863,14523370,Schöneck/Vogtl.,08261,Vogtlandkreis,Sachsen
 55772,12061433,Schönefeld,12529,Landkreis Dahme-Spreewald,Brandenburg
 1352215,12067440,Schöneiche bei Berlin,15566,Landkreis Oder-Spree,Brandenburg
 1244181,08336080,Schönenberg,79677,Landkreis Lörrach,Baden-Württemberg
@@ -10469,6 +10400,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1075997,07233239,Schüller,54586,Landkreis Vulkaneifel,Rheinland-Pfalz
 447970,01051105,Schülp,25764,Kreis Dithmarschen,Schleswig-Holstein
 1187305,01058147,Schülp bei Nortorf,24589,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
+548578,01058148,Schülp bei Rendsburg,24768,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
+548578,01058148,Schülp bei Rendsburg,24797,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 548578,01058148,Schülp bei Rendsburg,24813,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 55774,12061444,Schulzendorf,15732,Landkreis Dahme-Spreewald,Brandenburg
 416449,07132100,Schürdt,57632,Landkreis Altenkirchen,Rheinland-Pfalz
@@ -10500,8 +10433,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 939356,09180131,Schwaigen,82445,Landkreis Garmisch-Partenkirchen,Bayern
 410521,08125086,Schwaigern,74193,Landkreis Heilbronn,Baden-Württemberg
 401696,08119068,Schwaikheim,71409,Rems-Murr-Kreis,Baden-Württemberg
-414833,06436011,Schwalbach,65824,Main-Taunus-Kreis,Hessen
 1184565,10044118,Schwalbach,66773,Landkreis Saarlouis,Saarland
+414833,06436011,Schwalbach am Taunus,65824,Main-Taunus-Kreis,Hessen
 1182303,07140140,Schwall,56281,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 2831169,16066064,Schwallungen,98590,Landkreis Schmalkalden-Meiningen,Thüringen
 452200,06634022,Schwalmstadt,34613,Schwalm-Eder-Kreis,Hessen
@@ -10681,7 +10614,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1477861,13074076,Selmsdorf,23923,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
 393336,13072097,Selpin,18195,Landkreis Rostock,Mecklenburg-Vorpommern
 1023213,03357043,Selsingen,27446,Landkreis Rotenburg (Wümme),Niedersachsen
-324312,06533014,Selters,65618,Landkreis Limburg-Weilburg,Hessen
+324312,06533014,Selters (Taunus),65618,Landkreis Limburg-Weilburg,Hessen
 533594,07143067,Selters (Westerwald),56242,Westerwaldkreis,Rheinland-Pfalz
 1245827,07339053,Selzen,55278,Landkreis Mainz-Bingen,Rheinland-Pfalz
 1250335,07335205,Sembach,67681,Landkreis Kaiserslautern,Rheinland-Pfalz
@@ -10984,13 +10917,13 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1084418,07340050,Steinalben,66851,Landkreis Südwestpfalz,Rheinland-Pfalz
 1526889,03352051,Steinau,21775,Landkreis Cuxhaven,Niedersachsen
 535938,06435028,Steinau an der Straße,36396,Main-Kinzig-Kreis,Hessen
-417371,06434010,Steinbach,61449,Hochtaunuskreis,Hessen
 1241474,07140148,Steinbach,56291,Rhein-Hunsrück-Kreis,Rheinland-Pfalz
 2813805,16061089,Steinbach,37308,Landkreis Eichsfeld,Thüringen
 1267644,07333075,Steinbach am Donnersberg,67808,Donnersbergkreis,Rheinland-Pfalz
 1246488,07336096,Steinbach am Glan,66909,Landkreis Kusel,Rheinland-Pfalz
 1021755,09476175,Steinbach am Wald,96361,Landkreis Kronach,Bayern
 2818530,16066069,Steinbach-Hallenberg,98587,Landkreis Schmalkalden-Meiningen,Thüringen
+417371,06434010,Steinbach (Taunus),61449,Hochtaunuskreis,Hessen
 444396,14523380,Steinberg,08237,Vogtlandkreis,Sachsen
 1145087,01059164,Steinberg,24972,Kreis Schleswig-Flensburg,Schleswig-Holstein
 962124,09376168,Steinberg am See,92449,Landkreis Schwandorf,Bayern
@@ -11048,7 +10981,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 145304,05770044,Stemwede,32351,Kreis Minden-Lübbecke,Nordrhein-Westfalen
 1284750,15090535,Stendal,39576,Landkreis Stendal,Sachsen-Anhalt
 3768777,13074093,Stepenitztal,23936,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern
-2826950,16066071,Stepfershausen,98617,Landkreis Schmalkalden-Meiningen,Thüringen
 2186942,09187177,Stephanskirchen,83071,Landkreis Rosenheim,Bayern
 959823,09271151,Stephansposching,94569,Landkreis Deggendorf,Bayern
 1476158,01053123,Sterley,23883,Kreis Herzogtum Lauenburg,Schleswig-Holstein
@@ -11105,6 +11037,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2404087,15084470,Stößen,06667,Burgenlandkreis,Sachsen-Anhalt
 448120,09777171,Stötten a.Auerberg,87675,Landkreis Ostallgäu,Bayern
 447639,09777172,Stöttwang,87677,Landkreis Ostallgäu,Bayern
+1950429,08315095,St. Peter,79271,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 168000,05154052,Straelen,47638,Kreis Kleve,Nordrhein-Westfalen
 387467,09673171,Strahlungen,97618,Landkreis Rhön-Grabfeld,Bayern
 1451547,13076130,Stralendorf,19073,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
@@ -11120,7 +11053,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 57975,08236072,Straubenhardt,75334,Enzkreis,Baden-Württemberg
 62636,09263000,Straubing,94315,,Bayern
 1270362,16069049,Straufhain,98646,Landkreis Hildburghausen,Thüringen
-1388879,12061476,Straupitz,15913,Landkreis Dahme-Spreewald,Brandenburg
+1388879,12061476,Straupitz (Spreewald),15913,Landkreis Dahme-Spreewald,Brandenburg
 1332939,12064472,Strausberg,15344,Landkreis Märkisch-Oderland,Brandenburg
 2411249,16068053,Straußfurt,99634,Landkreis Sömmerda,Thüringen
 551074,14627270,Strehla,01616,Landkreis Meißen,Sachsen
@@ -11216,16 +11149,12 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2414809,15082377,Südliches Anhalt,06388,Landkreis Anhalt-Bitterfeld,Sachsen-Anhalt
 162731,05554060,Südlohn,46354,Kreis Borken,Nordrhein-Westfalen
 9683134,13071176,Südmüritz,17207,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
-9683134,13071176,Südmüritz,17209,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
 1461202,03251038,Sudwalde,27257,Landkreis Diepholz,Niedersachsen
 356750,09575165,Sugenheim,91438,Landkreis Neustadt an der Aisch-Bad Windsheim,Bayern
 356750,09575165,Sugenheim,91484,Landkreis Neustadt an der Aisch-Bad Windsheim,Bayern
 62450,16054000,Suhl,98527,,Thüringen
 62450,16054000,Suhl,98528,,Thüringen
 62450,16054000,Suhl,98529,,Thüringen
-62450,16054000,Suhl,98530,,Thüringen
-62450,16054000,Suhl,98559,,Thüringen
-62450,16054000,Suhl,98711,,Thüringen
 1460232,03360024,Suhlendorf,29562,Landkreis Uelzen,Niedersachsen
 449929,13076133,Sukow,19079,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 2020636,13072103,Sukow-Levitzow,17168,Landkreis Rostock,Mecklenburg-Vorpommern
@@ -11236,7 +11165,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1451594,13076134,Sülstorf,19077,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern
 2458466,16074095,Sulza,07751,Saale-Holzland-Kreis,Thüringen
 943740,08325057,Sulz am Neckar,72172,Landkreis Rottweil,Baden-Württemberg
-414856,06436012,Sulzbach,65843,Main-Taunus-Kreis,Hessen
 540065,07141132,Sulzbach,56379,Rhein-Lahn-Kreis,Rheinland-Pfalz
 1245105,07134088,Sulzbach,55758,Landkreis Birkenfeld,Rheinland-Pfalz
 395352,09676160,Sulzbach am Main,63834,Landkreis Miltenberg,Bayern
@@ -11245,6 +11173,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1028552,09371151,Sulzbach-Rosenberg,92237,Landkreis Amberg-Sulzbach,Bayern
 1184877,10041518,Sulzbach/Saar,66280,Regionalverband Saarbrücken,Saarland
 1253783,07335046,Sulzbachtal,67734,Landkreis Kaiserslautern,Rheinland-Pfalz
+414856,06436012,Sulzbach (Taunus),65843,Main-Taunus-Kreis,Hessen
 957730,09780140,Sulzberg,87477,Landkreis Oberallgäu,Bayern
 271658,08315111,Sulzburg,79295,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
 387528,09673172,Sulzdorf a.d.Lederhecke,97528,Landkreis Rhön-Grabfeld,Bayern
@@ -11294,13 +11223,13 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1284739,15090550,Tangermünde,39590,Landkreis Stendal,Sachsen-Anhalt
 443706,01056047,Tangstedt,25499,Kreis Pinneberg,Schleswig-Holstein
 444300,01062076,Tangstedt,22889,Kreis Stormarn,Schleswig-Holstein
-454866,06631023,Tann,36142,Landkreis Fulda,Hessen
 957064,09277148,Tann,84367,Landkreis Rottal-Inn,Bayern
 2179222,16075132,Tanna,07922,Saale-Orla-Kreis,Thüringen
 536591,14521610,Tannenberg,09468,Erzgebirgskreis,Sachsen
 1059455,09374159,Tännesberg,92723,Landkreis Neustadt an der Waldnaab,Bayern
 915559,08136071,Tannhausen,73497,Ostalbkreis,Baden-Württemberg
 2801212,08426117,Tannheim,88459,Landkreis Biberach,Baden-Württemberg
+454866,06631023,Tann (Rhön),36142,Landkreis Fulda,Hessen
 1334100,12073565,Tantow,16307,Landkreis Uckermark,Brandenburg
 962450,09779218,Tapfheim,86660,Landkreis Donau-Ries,Bayern
 1355681,03151030,Tappenbeck,38479,Landkreis Gifhorn,Niedersachsen
@@ -11310,7 +11239,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1963383,13072104,Tarnow,18249,Landkreis Rostock,Mecklenburg-Vorpommern
 1149295,01059171,Tarp,24963,Kreis Schleswig-Flensburg,Schleswig-Holstein
 310412,01057083,Tasdorf,24536,Kreis Plön,Schleswig-Holstein
-1149287,01059101,Tastrup,24943,Kreis Schleswig-Flensburg,Schleswig-Holstein
 2395916,16061094,Tastungen,37339,Landkreis Eichsfeld,Thüringen
 1395342,01054134,Tating,25881,Kreis Nordfriesland,Schleswig-Holstein
 401806,08128115,Tauberbischofsheim,97941,Main-Tauber-Kreis,Baden-Württemberg
@@ -11420,7 +11348,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 335434,09677189,Thüngen,97289,Landkreis Main-Spessart,Bayern
 181163,09679194,Thüngersheim,97291,Landkreis Würzburg,Bayern
 544237,07137101,Thür,56743,Landkreis Mayen-Koblenz,Rheinland-Pfalz
-2389090,16065072,Thüringenhausen,99713,Kyffhäuserkreis,Thüringen
 1996948,13072109,Thürkow,17168,Landkreis Rostock,Mecklenburg-Vorpommern
 958947,09272150,Thurmansbang,94169,Landkreis Freyung-Grafenau,Bayern
 1022773,09477157,Thurnau,95349,Landkreis Kulmbach,Bayern
@@ -11456,7 +11383,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 162454,09771169,Todtenweis,86447,Landkreis Aichach-Friedberg,Bayern
 1240395,08337108,Todtmoos,79682,Landkreis Waldshut,Baden-Württemberg
 1130286,08336087,Todtnau,79674,Landkreis Lörrach,Baden-Württemberg
-941948,09171132,Töging a.Inn,84513,Landkreis Altötting,Bayern
+941948,09171132,Töging am Inn,84513,Landkreis Altötting,Bayern
 1149344,01059090,Tolk,24894,Kreis Schleswig-Flensburg,Schleswig-Holstein
 2179225,16075114,Tömmelsdorf,07819,Saale-Orla-Kreis,Thüringen
 88735,05166028,Tönisvorst,47918,Kreis Viersen,Nordrhein-Westfalen
@@ -11546,7 +11473,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 55060,05382068,Troisdorf,53840,Rhein-Sieg-Kreis,Nordrhein-Westfalen
 55060,05382068,Troisdorf,53842,Rhein-Sieg-Kreis,Nordrhein-Westfalen
 55060,05382068,Troisdorf,53844,Rhein-Sieg-Kreis,Nordrhein-Westfalen
-2857019,16071088,Troistedt,99438,Landkreis Weimarer Land,Thüringen
 1419843,13071145,Trollenhagen,17039,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
 189455,01057082,Tröndel,24321,Kreis Plön,Schleswig-Holstein
 446700,14730320,Trossin,04880,Landkreis Nordsachsen,Sachsen
@@ -11653,14 +11579,10 @@ osm_id,ags,ort,plz,landkreis,bundesland
 158445,05978036,Unna,59427,Kreis Unna,Nordrhein-Westfalen
 451718,07143300,Unnau,57648,Westerwaldkreis,Rheinland-Pfalz
 387411,09673175,Unsleben,97618,Landkreis Rhön-Grabfeld,Bayern
-9251594,16064076,Unstrut-Hainich,99947,Unstrut-Hainich-Kreis,Thüringen
-9251594,16064076,Unstrut-Hainich,99986,Unstrut-Hainich-Kreis,Thüringen
 9251594,16064076,Unstrut-Hainich,99991,Unstrut-Hainich-Kreis,Thüringen
-2896624,16064071,Unstruttal,99974,Unstrut-Hainich-Kreis,Thüringen
-2896624,16064071,Unstruttal,99976,Unstrut-Hainich-Kreis,Thüringen
+2896624,16064071,Unstruttal,99996,Unstrut-Hainich-Kreis,Thüringen
 937895,09180135,Unterammergau,82497,Landkreis Garmisch-Partenkirchen,Bayern
 2778442,16074104,Unterbodnitz,07646,Saale-Holzland-Kreis,Thüringen
-1268857,16063078,Unterbreizbach,36404,Wartburgkreis,Thüringen
 1268857,16063078,Unterbreizbach,36414,Wartburgkreis,Thüringen
 936649,09181143,Unterdießen,86944,Landkreis Landsberg am Lech,Bayern
 957070,09277151,Unterdietfurt,84339,Landkreis Rottal-Inn,Bayern
@@ -11840,7 +11762,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2190047,09187181,Vogtareuth,83569,Landkreis Rosenheim,Bayern
 2902654,16064075,Vogtei,99986,Unstrut-Hainich-Kreis,Thüringen
 70147,08315133,Vogtsburg im Kaiserstuhl,79235,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg
-380987,09186158,Vohburg a.d.Donau,85088,Landkreis Pfaffenhofen an der Ilm,Bayern
+380987,09186158,Vohburg an der Donau,85088,Landkreis Pfaffenhofen an der Ilm,Bayern
 1059462,09374162,Vohenstrauß,92648,Landkreis Neustadt an der Waldnaab,Bayern
 198601,06635019,Vöhl,34516,Landkreis Waldeck-Frankenberg,Hessen
 1242238,08326068,Vöhrenbach,78147,Schwarzwald-Baar-Kreis,Baden-Württemberg
@@ -11912,7 +11834,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2813779,16061102,Wahlhausen,37318,Landkreis Eichsfeld,Thüringen
 1248569,07331067,Wahlheim,55234,Landkreis Alzey-Worms,Rheinland-Pfalz
 453179,07143301,Wahlrod,57614,Westerwaldkreis,Rheinland-Pfalz
-1112228,06633027,Wahlsburg,37194,Landkreis Kassel,Hessen
 422875,01060092,Wahlstedt,23812,Kreis Segeberg,Schleswig-Holstein
 310399,01057084,Wahlstorf,24211,Kreis Plön,Schleswig-Holstein
 1246482,07336101,Wahnwegen,66909,Landkreis Kusel,Rheinland-Pfalz
@@ -12012,7 +11933,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2397425,15087440,Wallhausen,06528,Landkreis Mansfeld-Südharz,Sachsen-Anhalt
 422313,07132111,Wallmenroth,57584,Landkreis Altenkirchen,Rheinland-Pfalz
 534490,07143304,Wallmerod,56414,Westerwaldkreis,Rheinland-Pfalz
-1421443,03153014,Wallmoden,38729,Landkreis Goslar,Niedersachsen
 1156035,01059173,Wallsbüll,24980,Kreis Schleswig-Flensburg,Schleswig-Holstein
 1258876,07231127,Wallscheid,54531,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz
 1285572,15081545,Wallstawe,29413,Altmarkkreis Salzwedel,Sachsen-Anhalt
@@ -12026,8 +11946,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1252377,07340226,Walshausen,66484,Landkreis Südwestpfalz,Rheinland-Pfalz
 1252553,07337082,Walsheim,76833,Landkreis Südliche Weinstraße,Rheinland-Pfalz
 1302362,12068452,Walsleben,16818,Landkreis Ostprignitz-Ruppin,Brandenburg
-1808966,03358022,Walsrode,29664,Landkreis Heidekreis,Niedersachsen
-1808966,03358022,Walsrode,29693,Landkreis Heidekreis,Niedersachsen
+1808966,03358024,Walsrode,29664,Landkreis Heidekreis,Niedersachsen
+1808966,03358024,Walsrode,29699,Landkreis Heidekreis,Niedersachsen
 962703,09774192,Waltenhausen,86480,Landkreis Günzburg,Bayern
 957741,09780143,Waltenhofen,87448,Landkreis Oberallgäu,Bayern
 416408,07132112,Walterschen,57632,Landkreis Altenkirchen,Rheinland-Pfalz
@@ -12096,7 +12016,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2388888,16065077,Wasserthaleben,99718,Kyffhäuserkreis,Thüringen
 534397,09571214,Wassertrüdingen,91717,Landkreis Ansbach,Bayern
 2820020,16066086,Wasungen,98634,Landkreis Schmalkalden-Meiningen,Thüringen
-2820020,16066086,Wasungen,98639,Landkreis Schmalkalden-Meiningen,Thüringen
 1796302,03351021,Wathlingen,29339,Landkreis Celle,Niedersachsen
 553512,01058170,Wattenbek,24582,Kreis Rendsburg-Eckernförde,Schleswig-Holstein
 1077542,09471209,Wattendorf,96196,Landkreis Bamberg,Bayern
@@ -12225,7 +12144,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2410105,16068058,Weißensee,99631,Landkreis Sömmerda,Thüringen
 1022880,09479166,Weißenstadt,95163,Landkreis Wunsiedel im Fichtelgebirge,Bayern
 548982,07137228,Weißenthurm,56575,Landkreis Mayen-Koblenz,Rheinland-Pfalz
-1311128,14626590,Weißkeißel - Wuskidź,02957,Landkreis Görlitz,Sachsen
+1311128,14626590,Weißkeißel – Wuskidź,02957,Landkreis Görlitz,Sachsen
 1310639,14626600,Weißwasser/O.L. - Běła Woda,02943,Landkreis Görlitz,Sachsen
 1124265,08316049,Weisweil,79367,Landkreis Emmendingen,Baden-Württemberg
 421957,07132113,Weitefeld,57586,Landkreis Altenkirchen,Rheinland-Pfalz
@@ -12317,8 +12236,8 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1060408,07131082,Wershofen,53520,Landkreis Ahrweiler,Rheinland-Pfalz
 958081,09780145,Wertach,87497,Landkreis Oberallgäu,Bayern
 401778,08128131,Wertheim,97877,Main-Tauber-Kreis,Baden-Württemberg
-138697,05754052,Werther,33824,Kreis Gütersloh,Nordrhein-Westfalen
 2400553,16062063,Werther,99735,Landkreis Nordhausen,Thüringen
+138697,05754052,Werther (Westf.),33824,Kreis Gütersloh,Nordrhein-Westfalen
 956952,09773182,Wertingen,86637,Landkreis Dillingen an der Donau,Bayern
 58590,05170048,Wesel,46483,Kreis Wesel,Nordrhein-Westfalen
 58590,05170048,Wesel,46485,Kreis Wesel,Nordrhein-Westfalen
@@ -12327,6 +12246,7 @@ osm_id,ags,ort,plz,landkreis,bundesland
 532318,01062094,Wesenberg,23858,Kreis Stormarn,Schleswig-Holstein
 1419649,13071159,Wesenberg,17255,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern
 1384589,03151038,Wesendorf,29392,Landkreis Gifhorn,Niedersachsen
+10523427,06633030,Wesertal,34399,Landkreis Kassel,Hessen
 447966,01051127,Wesselburen,25764,Kreis Dithmarschen,Schleswig-Holstein
 447164,01051128,Wesselburener Deichhausen,25764,Kreis Dithmarschen,Schleswig-Holstein
 447965,01051129,Wesselburenerkoog,25764,Kreis Dithmarschen,Schleswig-Holstein
@@ -12660,7 +12580,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 1432648,03158037,Wolfenbüttel,38302,Landkreis Wolfenbüttel,Niedersachsen
 1432648,03158037,Wolfenbüttel,38304,Landkreis Wolfenbüttel,Niedersachsen
 533599,07143085,Wölferlingen,56244,Westerwaldkreis,Rheinland-Pfalz
-2389091,16065082,Wolferschwenda,99713,Kyffhäuserkreis,Thüringen
 29824,09178156,Wolfersdorf,85395,Landkreis Freising,Bayern
 446621,06440024,Wölfersheim,61200,Wetteraukreis,Hessen
 962650,09779231,Wolferstadt,86709,Landkreis Donau-Ries,Bayern
@@ -12830,7 +12749,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 2404586,15084590,Zeitz,06712,Burgenlandkreis,Sachsen-Anhalt
 961327,09372167,Zell,93199,Landkreis Cham,Bayern
 1270652,16066092,Zella-Mehlis,98544,Landkreis Schmalkalden-Meiningen,Thüringen
-1270652,16066092,Zella-Mehlis,98554,Landkreis Schmalkalden-Meiningen,Thüringen
 453018,08317146,Zell am Harmersbach,77736,Ortenaukreis,Baden-Württemberg
 181162,09679209,Zell am Main,97299,Landkreis Würzburg,Bayern
 1254390,07333501,Zellertal,67308,Donnersbergkreis,Rheinland-Pfalz
@@ -12907,7 +12825,6 @@ osm_id,ags,ort,plz,landkreis,bundesland
 956143,09773187,Zöschingen,89447,Landkreis Dillingen an der Donau,Bayern
 176781,12072477,Zossen,15806,Landkreis Teltow-Fläming,Brandenburg
 1245780,07339068,Zotzenheim,55576,Landkreis Mainz-Bingen,Rheinland-Pfalz
-415412,14522620,Zschaitz-Ottewig,04720,Landkreis Mittelsachsen,Sachsen
 445994,14730360,Zschepplin,04838,Landkreis Nordsachsen,Sachsen
 422355,14521690,Zschopau,09405,Erzgebirgskreis,Sachsen
 422355,14521690,Zschopau,09434,Erzgebirgskreis,Sachsen

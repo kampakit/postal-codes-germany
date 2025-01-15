@@ -27,7 +27,7 @@ class ImportCommand extends Command
     }
 
     private function read_cities() {
-        $file =  file(__DIR__.'/../../../data/zuordnung_plz_ort_landkreis.csv');
+        $file =  file(__DIR__.'/../../../data/zuordnung_plz_ort.csv');
         $lines = array_map('str_getcsv', $file);
         array_shift($lines); // remove headers
         $headers = ['osm_id', 'gemeindeschluessel', 'city', 'postal_code', 'landkreis', 'bundesland'];
